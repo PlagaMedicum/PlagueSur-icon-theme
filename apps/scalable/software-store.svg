@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg88"
+   sodipodi:docname="deepin-app-store.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata92">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview90"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="57.920317"
+     inkscape:cy="70.672179"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg88" />
+  <defs
+     id="defs72">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient986-3">
+      <stop
+         style="stop-color:#3a3131;stop-opacity:1;"
+         offset="0"
+         id="stop982" />
+      <stop
+         id="stop995"
+         offset="0.65402508"
+         style="stop-color:#3a3131;stop-opacity:0.70980392;" />
+      <stop
+         style="stop-color:#3a3131;stop-opacity:0;"
+         offset="1"
+         id="stop984" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient962">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.96453899"
+         offset="0"
+         id="stop958" />
+      <stop
+         id="stop968"
+         offset="0.90252"
+         style="stop-color:#000000;stop-opacity:0.66312057" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop960" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient926">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop922" />
+      <stop
+         id="stop932"
+         offset="0.85282648"
+         style="stop-color:#141111;stop-opacity:1" />
+      <stop
+         style="stop-color:#e2c8c8;stop-opacity:1;"
+         offset="0.93064487"
+         id="stop936" />
+      <stop
+         id="stop950"
+         offset="0.93845344"
+         style="stop-color:#e9d5d5;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ebd9d9;stop-opacity:1;"
+         offset="0.94528592"
+         id="stop952" />
+      <stop
+         style="stop-color:#e2caca;stop-opacity:1;"
+         offset="0.9696877"
+         id="stop954" />
+      <stop
+         id="stop946"
+         offset="0.97652018"
+         style="stop-color:#d8baba;stop-opacity:1;" />
+      <stop
+         style="stop-color:#af9191;stop-opacity:1"
+         offset="1"
+         id="stop924" />
+    </linearGradient>
+    <filter
+       id="deepin-appstore-a"
+       width="129.1%"
+       height="129.1%"
+       x="-14.5%"
+       y="-14.5%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="3"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="deepin-appstore-b"
+       x1="30.57777"
+       x2="30.57777"
+       y1="7.8725525"
+       y2="61.155539"
+       gradientTransform="matrix(1.7986923,0,0,0.55595945,9,9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F8F8F8"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="#FFE4C5"
+         id="stop19" />
+    </linearGradient>
+    <radialGradient
+       id="deepin-appstore-c"
+       cx="45.716518"
+       cy="40.904253"
+       r="91.433036"
+       fx="45.716518"
+       fy="40.904253"
+       gradientTransform="matrix(1.2030663,0,0,0.83120941,9,9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFB558"
+         id="stop22" />
+      <stop
+         offset="100%"
+         stop-color="#FF631C"
+         id="stop24" />
+    </radialGradient>
+    <linearGradient
+       id="deepin-appstore-d"
+       x1="53.607369"
+       x2="53.607369"
+       y1="34.883264"
+       y2="112.85762"
+       gradientTransform="matrix(1.0259784,0,0,0.97467943,9,9)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#F80"
+         id="stop27" />
+      <stop
+         offset="100%"
+         stop-color="#FF3F00"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="deepin-appstore-g"
+       x1="44.232714"
+       x2="44.232714"
+       y1="19.894778"
+       y2="76.190959"
+       gradientTransform="scale(1.2434236,0.80423116)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFEBEB"
+         id="stop32" />
+      <stop
+         offset="2.077%"
+         stop-color="#FFF"
+         id="stop34" />
+      <stop
+         offset="6.675%"
+         stop-color="#FFEAEA"
+         id="stop36" />
+      <stop
+         offset="100%"
+         stop-color="#FFD2D2"
+         id="stop38" />
+    </linearGradient>
+    <path
+       id="deepin-appstore-f"
+       d="M86.0930233,17.9732508 C86.0930233,16.8834545 86.9676298,16 88.0465116,16 C89.1253935,16 90,16.8834545 90,17.9732508 C90,29.8051637 87.6106545,40.0764897 82.5872267,47.6381263 C76.7175603,56.4735839 67.4994354,61.275143 55,61.275143 C42.5005646,61.275143 33.2824397,56.4735839 27.4127733,47.6381263 C22.3893455,40.0764897 20,29.8051637 20,17.9732508 C20,16.8834545 20.8746065,16 21.9534884,16 C23.0323702,16 23.9069767,16.8834545 23.9069767,17.9732508 C23.9069767,29.0869145 26.1233567,38.6146956 30.6569941,45.4390633 C35.7895584,53.1649802 43.7830348,57.3286414 55,57.3286414 C66.2169652,57.3286414 74.2104416,53.1649802 79.3430059,45.4390633 C83.8766433,38.6146956 86.0930233,29.0869145 86.0930233,17.9732508 Z" />
+    <filter
+       id="deepin-appstore-e"
+       width="117.1%"
+       height="126.5%"
+       x="-8.6%"
+       y="-6.6%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="3"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset42" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1.5"
+         id="feGaussianBlur44" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0.788235294   0 0 0 0 0.290196078   0 0 0 0 0  0 0 0 0.4 0"
+         id="feColorMatrix46" />
+    </filter>
+    <filter
+       id="deepin-appstore-h"
+       width="111.4%"
+       height="117.7%"
+       x="-5.7%"
+       y="-2.2%"
+       filterUnits="objectBoundingBox">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="shadowBlurInner1"
+         stdDeviation=".5"
+         id="feGaussianBlur49" />
+      <feOffset
+         dy="-1"
+         in="shadowBlurInner1"
+         result="shadowOffsetInner1"
+         id="feOffset51" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner1"
+         id="feComposite53" />
+      <feColorMatrix
+         in="shadowInnerInner1"
+         result="shadowMatrixInner1"
+         values="0 0 0 0 1   0 0 0 0 0.568627451   0 0 0 0 0.243137255  0 0 0 0.501217165 0"
+         id="feColorMatrix55" />
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="shadowBlurInner2"
+         stdDeviation=".5"
+         id="feGaussianBlur57" />
+      <feOffset
+         dy="1"
+         in="shadowBlurInner2"
+         result="shadowOffsetInner2"
+         id="feOffset59" />
+      <feComposite
+         in="shadowOffsetInner2"
+         in2="SourceAlpha"
+         k2="-1"
+         k3="1"
+         operator="arithmetic"
+         result="shadowInnerInner2"
+         id="feComposite61" />
+      <feColorMatrix
+         in="shadowInnerInner2"
+         result="shadowMatrixInner2"
+         values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"
+         id="feColorMatrix63" />
+      <feMerge
+         id="feMerge69">
+        <feMergeNode
+           in="shadowMatrixInner1"
+           id="feMergeNode65" />
+        <feMergeNode
+           in="shadowMatrixInner2"
+           id="feMergeNode67" />
+      </feMerge>
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient926"
+       id="radialGradient928"
+       cx="205.8382"
+       cy="15.851301"
+       fx="205.8382"
+       fy="15.851301"
+       r="34.729335"
+       gradientTransform="matrix(1,0,0,1.2880081,0,6.6197957)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient962"
+       id="radialGradient966"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91717772,-0.00552149,0.00695604,1.1554714,16.967397,6.2931333)"
+       cx="205.789"
+       cy="21.270094"
+       fx="205.789"
+       fy="21.270094"
+       r="34.729335" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient986-3"
+       id="radialGradient988"
+       cx="30.201849"
+       cy="26.272503"
+       fx="30.201849"
+       fy="26.272503"
+       r="3.1640031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0606061,0,0,1.0606061,-0.9675052,-1.7840307)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient986-3"
+       id="radialGradient999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0606061,0,0,1.0606061,65.284804,-1.6881518)"
+       cx="30.201849"
+       cy="26.272503"
+       fx="30.201849"
+       fy="26.272503"
+       r="3.1640031" />
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#deepin-appstore-b);filter:url(#deepin-appstore-a)"
+     id="path74"
+     d="M 24.786006,9 H 103.21399 C 111.93236,9 119,16.067636 119,24.786006 V 43 43 H 9 V 24.786006 C 9,16.067636 16.067636,9 24.786006,9 Z m 5.477152,21.891892 c 2.498266,0 4.736842,-2.238576 4.736842,-5 0,-2.761424 -2.238576,-5 -4.736842,-5 -3.024582,0 -5.263158,2.238576 -5.263158,5 0,2.761424 2.238576,5 5.263158,5 z m 68,0 c 2.498262,0 4.736842,-2.238576 4.736842,-5 0,-2.761424 -2.23858,-5 -4.736842,-5 -3.024582,0 -5.263158,2.238576 -5.263158,5 0,2.761424 2.238576,5 5.263158,5 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#deepin-appstore-c);filter:url(#deepin-appstore-a)"
+     id="path76"
+     d="m 9,43 h 110 v 60.21399 C 119,111.93236 111.93236,119 103.21399,119 H 24.786006 C 16.067636,119 9,111.93236 9,103.21399 Z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#deepin-appstore-d);filter:url(#deepin-appstore-a)"
+     id="path78"
+     d="m 104,43 v 76 H 88 V 43 Z m -31,0 v 76 H 56 V 43 Z m -33,0 v 76 H 24 V 43 Z" />
+  <circle
+     style="opacity:0.38601036;fill:url(#radialGradient988);fill-opacity:1;stroke:none;stroke-width:3.71212125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.66312058"
+     id="path980"
+     cx="31.064758"
+     cy="26.080746"
+     r="3.3557608" />
+  <image
+     xlink:href="data:image/png;base64,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
+"
+     width="81"
+     height="57"
+     id="image1001"
+     transform="translate(23,22)" />
+  <g
+     id="g972"
+     transform="translate(-141.31199,-0.39470797)">
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path899"
+       d="m 238.89786,27.176201 c 0,23.170648 -14.87722,41.954168 -33.22919,41.954166 -18.35197,-5e-6 -33.22918,-18.783523 -33.22918,-41.954166"
+       style="opacity:0.98400005;fill:none;fill-opacity:1;stroke:url(#radialGradient928);stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:0.98400005;fill:none;fill-opacity:1;stroke:url(#radialGradient966);stroke-width:3.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 238.89786,27.176201 c 0,23.170648 -14.87722,41.954168 -33.22919,41.954166 -18.35197,-5e-6 -33.22918,-18.783523 -33.22918,-41.954166"
+       id="path956"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+  </g>
+  <circle
+     r="3.3557608"
+     cy="26.176624"
+     cx="97.317062"
+     id="circle997"
+     style="opacity:0.38601038;fill:url(#radialGradient999);fill-opacity:1;stroke:none;stroke-width:3.71212125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.66312058" />
+</svg>
