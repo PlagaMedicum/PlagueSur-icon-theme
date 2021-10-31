@@ -1,7 +1,8 @@
 [Icon Theme]
 Name=Plaga-Dark
 Comment=Based on Flat Remix ICON theme for dark interfaces
-Inherits=bloom,Mkos-Big-Sur-Night,Flat-Remix-Blue-Dark,breeze-dark,Papirus,gnome
+Inherits=WhiteSur,Mkos-Big-Sur-Night,bloom,Flat-Remix-Blue-Dark,breeze-dark,Papirus,gnome
+
 
 Example=folder
 
