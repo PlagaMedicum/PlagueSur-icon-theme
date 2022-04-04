@@ -1,27 +1,31 @@
 [Icon Theme]
 Name=Plaga-Dark
-Comment=Based on Flat Remix ICON theme for dark interfaces
-Inherits=WhiteSur,Mkos-Big-Sur-Night,bloom,Flat-Remix-Blue-Dark,breeze-dark,Papirus,gnome
-
-
+Comment=Dark OSX-style (no Apple branding) icon theme on WhiteSur and Flat Remix, created with XFCE users in mind
+Inherits=WhiteSur-dark,Papirus,hicolor
 Example=folder
 
+# KDE/Plasma Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,96,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,96,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
-DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64
-ToolbarDefault=22
-ToolbarSizes=16,22,24,32,48
-MainToolbarDefault=22
-MainToolbarSizes=16,22,24,32,48
-SmallDefault=16
-SmallSizes=16,22,24,32,48
-PanelDefault=48
-PanelSizes=16,22,24,32,48,64
-DialogDefault=48
-DialogSizes=16,22,24,32,48,64
+KDE-Extensions=.svg
 
-Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,mimetypes/scalable,mimetypes/symbolic,panel,places/scalable,places/symbolic,status/scalable/16,status/scalable/32,status/scalable/512,status/symbolic
+Directories=actions/scalable,actions/symbolic,animations,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status/scalable/16,status/scalable/24,status/scalable/32,status/scalable/512,status/symbolic
 
 [actions/scalable]
 Context=Actions
@@ -36,6 +40,11 @@ Type=Fixed
 [actions/scalable]
 Context=Actions
 Size=24
+Type=Fixed
+
+[actions/scalable]
+Context=Actions
+Size=32
 Type=Fixed
 
 [actions/symbolic]
@@ -60,24 +69,16 @@ MaxSize=512
 Type=Scalable
 
 [apps/scalable]
+Size=64
 Context=Applications
-Size=16
-Type=Fixed
-
-[apps/scalable]
-Context=Applications
-Size=22
-Type=Fixed
-
-[apps/scalable]
-Context=Applications
-Size=24
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [apps/symbolic]
-Context=Applications
 Size=16
-MinSize=1
+Context=Applications
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -137,13 +138,6 @@ MinSize=1
 MaxSize=512
 Type=Scalable
 
-[panel]
-Context=Status
-Size=24
-MinSize=1
-MaxSize=24
-Type=Scalable
-
 [places/scalable]
 Context=Places
 Size=128
@@ -161,6 +155,13 @@ Type=Scalable
 [status/scalable/16]
 Context=Status
 Size=16
+MinSize=1
+MaxSize=512
+Type=Scalable
+
+[status/scalable/24]
+Context=Status
+Size=24
 MinSize=1
 MaxSize=512
 Type=Scalable
