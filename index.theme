@@ -45,7 +45,9 @@ Type=Fixed
 [actions/scalable]
 Context=Actions
 Size=32
-Type=Fixed
+MinSize=32
+MaxSize=512
+Type=Scalable
 
 [actions/symbolic]
 Context=Actions
@@ -85,7 +87,7 @@ Type=Scalable
 [categories/scalable]
 Context=Categories
 Size=128
-MinSize=1
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -162,7 +164,7 @@ Type=Scalable
 [status/scalable/24]
 Context=Status
 Size=24
-MinSize=16
+MinSize=24
 MaxSize=512
 Type=Scalable
 
@@ -176,7 +178,7 @@ Type=Scalable
 [status/scalable/512]
 Context=Status
 Size=16
-MinSize=16
+MinSize=32
 MaxSize=512
 Type=Scalable
 
