@@ -25,7 +25,7 @@ FollowsColorScheme=true
 
 KDE-Extensions=.svg
 
-Directories=actions/16,actions/22,actions/24,actions/scalable,actions/symbolic,animations/24,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/16,devices/scalable,devices/symbolic,emblems/24,emblems/symbolic,mimes/scalable,mimes/symbolic,places/scalable,places/symbolic,status/16,status/22,status/24,status/32,status/scalable,status/symbolic
+Directories=actions/16,actions/22,actions/24,actions/scalable,actions/symbolic,animations/24,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/16,devices/scalable,devices/symbolic,emblems/24,emblems/symbolic,mimes/scalable,mimes/symbolic,places/16,places/22,places/24,places/scalable,places/symbolic,status/16,status/22,status/24,status/32,status/scalable,status/symbolic
 
 [actions/16]
 Context=Actions
@@ -137,6 +137,21 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
+
+[places/16]
+Context=Places
+Size=16
+Type=Fixed
+
+[places/22]
+Context=Places
+Size=22
+Type=Fixed
+
+[places/24]
+Context=Places
+Size=24
+Type=Fixed
 
 [places/scalable]
 Context=Places
@@ -315,6 +330,24 @@ Size=16
 MinSize=16
 MaxSize=512
 Type=Scalable
+
+[places@2x/16]
+Context=Places
+Scale=2
+Size=16
+Type=Fixed
+
+[places@2x/22]
+Context=Places
+Scale=2
+Size=22
+Type=Fixed
+
+[places@2x/24]
+Context=Places
+Scale=2
+Size=24
+Type=Fixed
 
 [places@2x/scalable]
 Context=Places
