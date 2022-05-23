@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg9"
+   sodipodi:docname="document-new-from-template.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="21.5"
+     inkscape:cx="12.023256"
+     inkscape:cy="12"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m 16.9043,13.7324 a 3.5,3.5 0 0 0 -3.5,3.5 3.5,3.5 0 0 0 3.5,3.5 3.5,3.5 0 0 0 3.5,-3.5 3.5,3.5 0 0 0 -3.5,-3.5 z m 0,1 0.47852,1.3457 1.2891,-0.61328 -0.61328,1.2891 1.3457,0.47852 -1.3457,0.47852 0.61328,1.2891 -1.2891,-0.61328 -0.47852,1.3457 -0.47852,-1.3457 -1.2891,0.61328 0.61328,-1.2891 -1.3457,-0.47852 1.3457,-0.47852 -0.61328,-1.2891 1.2891,0.61328 z"
+     fill="currentColor"
+     id="path5-6"
+     style="color:#dedede" />
+  <path
+     d="M 8.012689,4 C 6.2810926,4 4.8870636,5.338 4.8870636,7 v 10 c 0,1.661999 1.394029,2.999999 3.1256254,2.999999 h 4.167501 v -1 H 8.012689 C 6.8582913,18.999999 5.9289388,18.108 5.9289388,17 V 7 c 0,-1.108 0.9293525,-2 2.0837502,-2 h 5.209375 v 5 h 5.209376 v 3 h 1.041875 V 9 L 14.26394,4 H 13.222064 Z M 14.26394,5.4141 18,9 h -3.73606 z"
+     class="ColorScheme-Text"
+     fill="currentColor"
+     id="path7-3"
+     style="color:#dedede;stroke-width:1.02072" />
+</svg>
