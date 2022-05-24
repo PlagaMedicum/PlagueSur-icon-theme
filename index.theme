@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Plaga-Dark
 Comment=Dark OSX-style (no Apple branding) icon theme on WhiteSur and Flat Remix, created with XFCE users in mind
-Inherits=WhiteSur-dark,Papirus,hicolor
+Inherits=WhiteSur-dark,Adwaita,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
@@ -25,7 +25,8 @@ FollowsColorScheme=true
 
 KDE-Extensions=.svg
 
-Directories=actions/16,actions/22,actions/24,actions/scalable,actions/symbolic,animations/24,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/16,devices/scalable,devices/symbolic,emblems/24,emblems/symbolic,mimes/scalable,mimes/symbolic,places/16,places/22,places/24,places/scalable,places/symbolic,status/16,status/22,status/24,status/32,status/scalable,status/symbolic
+# Directory list
+Directories=actions/16,actions/22,actions/24,actions/scalable,actions/symbolic,animations/24,apps/scalable,apps/symbolic,categories/scalable,categories/symbolic,devices/16,devices/22,devices/24,devices/scalable,devices/symbolic,emblems/16,emblems/22,emblems/24,emblems/symbolic,mimes/16,mimes/22,mimes/scalable,mimes/symbolic,places/16,places/22,places/24,places/scalable,places/symbolic,status/16,status/22,status/24,status/32,status/symbolic,actions@2x/16,actions@2x/22,actions@2x/24,actions@2x/scalable,actions@2x/symbolic,animations@2x/24,apps@2x/scalable,apps@2x/symbolic,categories@2x/scalable,categories@2x/symbolic,devices@2x/16,devices@2x/22,devices@2x/24,devices@2x/scalable,devices@2x/symbolic,emblems@2x/16,emblems@2x/22,emblems@2x/24,emblems@2x/symbolic,mimes@2x/16,mimes@2x/22,mimes@2x/scalable,mimes@2x/symbolic,places@2x/16,places@2x/22,places@2x/24,places@2x/scalable,places@2x/symbolic,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
 
 [actions/16]
 Context=Actions
@@ -52,20 +53,20 @@ Type=Scalable
 [actions/symbolic]
 Context=Actions
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [animations/24]
 Context=Animations
 Size=24
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [apps/scalable]
 Context=Applications
-Size=128
+Size=64
 MinSize=32
 MaxSize=512
 Type=Scalable
@@ -80,7 +81,7 @@ Type=Scalable
 [categories/scalable]
 Context=Categories
 Size=32
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
@@ -94,6 +95,16 @@ Type=Scalable
 [devices/16]
 Context=Devices
 Size=16
+Type=Fixed
+
+[devices/22]
+Context=Devices
+Size=22
+Type=Fixed
+
+[devices/24]
+Context=Devices
+Size=24
 Type=Fixed
 
 [devices/scalable]
@@ -110,6 +121,16 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+[emblems/16]
+Context=Emblems
+Size=16
+Type=Fixed
+
+[emblems/22]
+Context=Emblems
+Size=22
+Type=Fixed
+
 [emblems/24]
 Context=Emblems
 Size=24
@@ -123,6 +144,16 @@ Size=16
 MinSize=16
 MaxSize=96
 Type=Scalable
+
+[mimes/16]
+Context=MimeTypes
+Size=16
+Type=Fixed
+
+[mimes/22]
+Context=MimeTypes
+Size=16
+Type=Fixed
 
 [mimes/scalable]
 Context=MimeTypes
@@ -155,7 +186,7 @@ Type=Fixed
 
 [places/scalable]
 Context=Places
-Size=64
+Size=48
 MinSize=32
 MaxSize=512
 Type=Scalable
@@ -185,12 +216,7 @@ Type=Fixed
 [status/32]
 Context=Status
 Size=32
-Type=Fixed
-
-[status/scalable]
-Context=Status
-Size=64
-MinSize=48
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -233,7 +259,7 @@ Type=Scalable
 Context=Actions
 Scale=2
 Size=16
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -241,14 +267,14 @@ Type=Scalable
 Context=Animations
 Scale=2
 Size=24
-MinSize=1
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [apps@2x/scalable]
 Context=Applications
 Scale=2
-Size=128
+Size=64
 MinSize=32
 MaxSize=512
 Type=Scalable
@@ -265,7 +291,7 @@ Type=Scalable
 Context=Categories
 Scale=2
 Size=32
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
@@ -281,6 +307,18 @@ Type=Scalable
 Context=Devices
 Scale=2
 Size=16
+Type=Fixed
+
+[devices@2x/22]
+Context=Devices
+Scale=2
+Size=22
+Type=Fixed
+
+[devices@2x/24]
+Context=Devices
+Scale=2
+Size=24
 Type=Fixed
 
 [devices@2x/scalable]
@@ -299,6 +337,18 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
+[emblems@2x/16]
+Context=Emblems
+Scale=2
+Size=16
+Type=Fixed
+
+[emblems@2x/22]
+Context=Emblems
+Scale=2
+Size=22
+Type=Fixed
+
 [emblems@2x/24]
 Context=Emblems
 Scale=2
@@ -314,6 +364,18 @@ Size=16
 MinSize=16
 MaxSize=96
 Type=Scalable
+
+[mimes@2x/16]
+Context=MimeTypes
+Scale=2
+Size=16
+Type=Fixed
+
+[mimes@2x/22]
+Context=MimeTypes
+Scale=2
+Size=16
+Type=Fixed
 
 [mimes@2x/scalable]
 Context=MimeTypes
@@ -352,7 +414,7 @@ Type=Fixed
 [places@2x/scalable]
 Context=Places
 Scale=2
-Size=64
+Size=48
 MinSize=32
 MaxSize=512
 Type=Scalable
@@ -387,13 +449,7 @@ Type=Fixed
 Context=Status
 Scale=2
 Size=32
-Type=Fixed
-
-[status@2x/scalable]
-Context=Status
-Scale=2
-Size=64
-MinSize=48
+MinSize=32
 MaxSize=512
 Type=Scalable
 
