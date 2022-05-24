@@ -81,7 +81,7 @@ Type=Scalable
 [categories/scalable]
 Context=Categories
 Size=32
-MinSize=22
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -291,7 +291,7 @@ Type=Scalable
 Context=Categories
 Scale=2
 Size=32
-MinSize=22
+MinSize=32
 MaxSize=512
 Type=Scalable
 
