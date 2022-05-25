@@ -1,5 +1,7 @@
 # PlagueSur icon theme
 
+![Icon theme preview](./icon-theme-preview.png)
+
 Nice dark icon theme, extending the WhiteSur-Dark theme.
 This is an extension of the WhiteSur icon theme, so you'll need
 to install both themes.
