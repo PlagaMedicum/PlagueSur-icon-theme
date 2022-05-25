@@ -25,6 +25,7 @@ Then go the Appearance settings and choose Plaga-Dark icon theme.
 
 ## TODO
 
+- Define general style, rules and create guidelines.
 - Make Tux logo more distinguishable for low-res.
 - Fix colours and styles of some symbolic and low-res icons.
 - Fix icons that are not inhereting from WhiteSur and replaced with other resolutions.
