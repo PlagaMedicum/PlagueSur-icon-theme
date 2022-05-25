@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Plaga-Dark
-Comment=Dark OSX-style (no Apple branding) icon theme on WhiteSur and Flat Remix, created with XFCE users in mind
+Name=PlagueSur
+Comment=Nice dark icon theme, extending the WhiteSur theme with no redundant Apple branding and more nice icons.
 Inherits=WhiteSur-dark,Adwaita,hicolor
 Example=folder
 
