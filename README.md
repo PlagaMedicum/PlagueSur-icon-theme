@@ -6,8 +6,6 @@ Nice dark icon theme, extending the WhiteSur-Dark theme.
 This is an extension of the WhiteSur icon theme, so it recommended
 to install both themes.
 
-I make this icon theme for myself.
-
 ## What is my goal
 
 I want to bring iOS or Android like experience in desktop icons at any
