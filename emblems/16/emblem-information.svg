@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="emblem-information.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.82646"
+     inkscape:cx="-2.5366848"
+     inkscape:cy="7.948279"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Highlight {
+            color:#3daee9;
+        }
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <g
+     id="g927"
+     transform="matrix(0.875,0,0,0.875,-3.7638757,0.97126937)">
+    <circle
+       r="8"
+       cy="-8.032835"
+       cx="13.444429"
+       transform="scale(1,-1)"
+       fill="#2091df"
+       id="circle2" />
+    <circle
+       r="1"
+       cy="-4.032835"
+       cx="13.444429"
+       transform="scale(1,-1)"
+       fill="#ffffff"
+       id="circle4" />
+    <path
+       d="m 12.444429,6.0328352 h 2 v 6.9999998 h -2 z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path6" />
+  </g>
+</svg>

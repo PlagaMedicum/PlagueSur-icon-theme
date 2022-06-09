@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="package-new.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="20.787971"
+     inkscape:cx="8.9474822"
+     inkscape:cy="6.7827688"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <path
+     d="m8 2 1.1480503 3.2283614 3.0945907-1.4710021-1.471002 3.0945905 3.228361 1.1480502-3.228361 1.1480503 1.471002 3.0945907-3.0945908-1.471002-1.1480502 3.228361-1.1480503-3.228361-3.0945904 1.471002 1.4710021-3.0945908-3.2283614-1.1480502 3.2283614-1.1480503-1.4710021-3.0945904 3.0945905 1.4710021z"
+     fill="#fdbc4b"
+     id="path5" />
+</svg>
