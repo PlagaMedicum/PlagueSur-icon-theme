@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=PlagueSur
 Comment=Nice dark icon theme, extending the WhiteSur theme with no redundant Apple branding and more nice icons.
-Inherits=WhiteSur-dark,Adwaita,hicolor
+Inherits=WhiteSur-dark,breeze-dark,Adwaita,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
@@ -80,8 +80,8 @@ Type=Scalable
 
 [categories/scalable]
 Context=Categories
-Size=32
-MinSize=32
+Size=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -290,8 +290,8 @@ Type=Scalable
 [categories@2x/scalable]
 Context=Categories
 Scale=2
-Size=32
-MinSize=32
+Size=64
+MinSize=16
 MaxSize=512
 Type=Scalable
 
