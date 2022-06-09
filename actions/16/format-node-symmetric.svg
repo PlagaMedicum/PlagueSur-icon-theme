@@ -1,8 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="format-node-symmetric.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.789192"
+     inkscape:cx="4.0931433"
+     inkscape:cy="6.619775"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#f1f8f8; } .ColorScheme-Highlight { color:#f1f8f8; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6 6 L 6 8 L 4 8 L 4 7 L 1 7 L 1 10 L 4 10 L 4 9 L 6 9 L 6 10 L 10 10 L 10 9 L 12 9 L 12 10 L 15 10 L 15 7 L 12 7 L 12 8 L 10 8 L 10 6 L 6 6 z"/>
+  </defs>
+  <g
+     id="g839"
+     transform="matrix(0.86479787,0,0,0.86479787,1.0816172,1.081617)">
+    <path
+       style="color:#dedede;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m -3e-7,7 v 3 h 3 V 7 Z M 13,7 v 3 h 3 V 7 Z M 0.9999997,8 h 1 v 1.0000001 h -1 z M 14,8 h 1 v 1.0000001 h -1 z"
+       class="ColorScheme-Text"
+       id="path4" />
+    <path
+       style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 5.9999997,6 v 2 h -3 v 1.0000001 h 3 V 10 H 10 V 9.0000001 h 3 V 8 H 10 V 6 Z m 1,1 H 9 V 9.0000001 H 6.9999997 Z"
+       class="ColorScheme-Highlight"
+       id="path6" />
+  </g>
 </svg>

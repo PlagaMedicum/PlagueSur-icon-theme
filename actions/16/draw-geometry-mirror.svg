@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="draw-geometry-mirror.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32.25"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     id="draw-geometry-mirror">
+    <g
+       fill="none"
+       stroke-linecap="round"
+       id="g8">
+      <path
+         d="m2 7c7 0-4 6.5 7 6.5"
+         stroke="#da0000"
+         stroke-opacity=".7"
+         id="path2"
+         style="stroke:#f44336;stroke-opacity:1" />
+      <path
+         d="m2 2 12 12"
+         stroke="#dedede"
+         id="path4" />
+      <path
+         d="m7 2c0 7 6.5-4 6.5 7"
+         stroke="#da0000"
+         stroke-opacity=".7"
+         id="path6"
+         style="stroke:#f44336;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
