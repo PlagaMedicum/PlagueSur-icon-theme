@@ -3,8 +3,8 @@
 ![Icon theme preview](./icon-theme-preview.png)
 
 Nice dark icon theme, extending the WhiteSur-Dark theme.
-This is an extension of the WhiteSur icon theme, so it recommended
-to install both themes.
+This is an extension of the WhiteSur icon theme, so i recommend
+to install both themes. But it'll also work mostly fine standalone.
 
 ## What is my goal
 
