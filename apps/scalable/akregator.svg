@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg21"
-   sodipodi:docname="akregator_empty.svg"
+   sodipodi:docname="akregator.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -50,26 +50,6 @@
          id="stop4"
          style="stop-color:#fa2429;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       id="b"
-       x2="0.015750397"
-       gradientTransform="matrix(0,-32,32,0,831.44756,48.000001)"
-       gradientUnits="userSpaceOnUse"
-       x1="0.75324035"
-       y1="-24.807171"
-       y2="-25.49394"
-       xlink:href="#a">
-      <stop
-         stop-color="#c24d00"
-         offset="0"
-         id="stop7"
-         style="stop-color:#e6e6e6;stop-opacity:1" />
-      <stop
-         stop-color="#f49a55"
-         offset="1"
-         id="stop9"
-         style="stop-color:#4d4d4d;stop-opacity:1" />
-    </linearGradient>
   </defs>
   <image
      x="1.559"
@@ -88,10 +68,20 @@
      ry="13.002"
      fill="url(#a)"
      id="rect11" />
-  <path
-     d="m 19.320042,47.788725 c -0.58518,-0.0069 -1.12727,-0.116758 -1.623491,-0.332204 -0.514291,-0.221006 -0.963252,-0.52541 -1.348275,-0.910433 -0.385023,-0.385023 -0.688038,-0.833985 -0.910434,-1.346886 -0.221006,-0.514291 -0.332204,-1.074452 -0.332204,-1.680481 L 15,19.046825 v -0.03892 C 15.0097,18.18365 15.307184,17.478933 15.893754,16.893754 16.488663,16.297455 17.20589,16 18.046825,16 c 2.660412,0 5.222135,0.344714 7.683781,1.032751 2.463035,0.689428 4.767613,1.6638 6.915124,2.923117 2.147511,1.260707 4.101816,2.77161 5.864304,4.534098 1.762488,1.762488 3.273391,3.716793 4.534098,5.864304 1.259317,2.147511 2.233689,4.452089 2.923117,6.915124 C 46.655286,39.73104 47,42.292763 47,44.953175 47,45.79411 46.702545,46.511337 46.107636,47.106246 45.511337,47.702545 44.79411,48 43.954565,48 h -0.05421 L 19.377031,47.788725 Z"
-     fill="url(#b)"
-     fill-rule="nonzero"
-     id="path14"
-     style="fill:url(#b);stroke-width:1.38997;fill-opacity:1" />
+  <g
+     transform="matrix(1.28 0 0 1.28 -.36 .64)"
+     fill="#f9f9f9"
+     id="g19">
+    <circle
+       cx="15"
+       cy="34"
+       r="3"
+       id="circle13" />
+    <path
+       d="M12 22v5h2.5a7.5 7.5 0 0 1 7.5 7.5V37h5v-2.5C27 27.596 21.404 22 14.5 22"
+       id="path15" />
+    <path
+       d="M12 12v5h3a17 17 0 0 1 17 17v3h5v-3a22 22 0 0 0-22-22z"
+       id="path17" />
+  </g>
 </svg>
