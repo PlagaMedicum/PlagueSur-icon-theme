@@ -3,10 +3,35 @@
 ![Icon theme preview](./icon-theme-preview.png)
 
 Nice dark icon theme, extending the WhiteSur-Dark theme.
-This is an extension of the WhiteSur icon theme, so you'll need
+This is an extension of the WhiteSur icon theme, so it recommended
 to install both themes.
 
 I make this icon theme for myself.
+
+## What is my goal
+
+I want to bring iOS or Android like experience in desktop icons at any
+Linux DE.
+
+I've been also inspired by the Apple's
+[Humman interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
+[These tips](https://lawsofux.com/) also helped me.
+
+So the icons must be:
+- distinguishable and contrast;
+- optimized for different resolutions;
+- expressive;
+- minimalistic;
+- aesthetically-balanced and pleasing;
+- emotionally and thematically neutral, no unneeded childish doodles,
+old-school chaotic paintings etc.
+
+To achieve these effects my icon pack also need to cover as much icons
+variations as possible, and sometimes they can be not ideal in realisation.
+So i'm open for your contributions, let's make Linux to look consistently and modern!
+
+I am not the fan of big corporations, so i'll prefer to avoid some corporational
+branding where it is no needed.
 
 ## Differences from White Sur
 
@@ -16,8 +41,9 @@ I make this icon theme for myself.
 
 ## Installation
 
-**Important!** Be sure to install the
-[WhiteSur-Dark icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme) first.
+**Important!** I recommend you to also install the
+[WhiteSur-Dark icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme),
+so there will be a less chance of missing icons.
 
 ### Manual installation from the repo
 
