@@ -43,12 +43,12 @@
          stop-color="#3889e9"
          offset="0"
          id="stop1456"
-         style="stop-color:#3f8eed;stop-opacity:1" />
+         style="stop-color:#1bd1f3;stop-opacity:1" />
       <stop
          stop-color="#5ea5fb"
          offset="1"
          id="stop1458"
-         style="stop-color:#145cc5;stop-opacity:1" />
+         style="stop-color:#006fff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient1040"
