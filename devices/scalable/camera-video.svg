@@ -5,7 +5,7 @@
    version="1"
    id="svg34"
    sodipodi:docname="camera-video.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -45,7 +45,7 @@
          offset="0"
          id="stop1923" />
       <stop
-         style="stop-color:#73bbdb;stop-opacity:1"
+         style="stop-color:#91afbd;stop-opacity:1;"
          offset="1"
          id="stop1925" />
     </linearGradient>
@@ -405,13 +405,15 @@
      showgrid="false"
      inkscape:zoom="5.2934734"
      inkscape:cx="33.815226"
-     inkscape:cy="31.17046"
+     inkscape:cy="31.453828"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34" />
+     inkscape:current-layer="svg34"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <rect
      x="7"
      y="14.999996"
