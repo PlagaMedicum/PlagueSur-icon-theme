@@ -6,7 +6,7 @@
    viewBox="0 0 135.47 135.47"
    id="svg10"
    sodipodi:docname="kali-reverse-engineering-trans.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -81,14 +81,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.0078125"
-     inkscape:cx="206.3876"
-     inkscape:cy="287.75194"
+     inkscape:cx="207.37984"
+     inkscape:cy="289.24031"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g8"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      transform="translate(0 -161.53)"
      id="g8">
@@ -117,14 +119,14 @@
        id="rect4"
        style="fill-opacity:1;fill:url(#linearGradient1379)" />
     <path
-       d="m16.459 179.83v12.468h9.0589v19.242h-9.0589v12.467h30.586v-12.467h-9.0584v-31.711h-13.029zm35.981 0v44.178h30.588v-44.178h-22.088zm35.982 0v12.468h9.0584v19.242h-9.0584v12.467h30.586v-12.467h-9.0584v-31.711h-13.03zm-25.101 12.468h8.8274v19.242h-8.8274zm25.101 42.222v44.18h30.586v-44.18h-22.088zm-71.963 2e-3v12.466h9.0589v19.242h-9.0589v12.469h30.586v-12.469h-9.0584v-31.709h-13.029zm35.981 0v12.466h9.0604v19.242h-9.0604v12.469h30.588v-12.469h-9.0609v-31.709h-13.029zm46.861 12.466h8.8274v19.242h-8.8274z"
+       d="m 27.235668,191.73091 v 9.46643 h 7.154937 v 14.60967 h -7.154937 v 9.46568 h 24.157558 v -9.46568 H 44.238683 V 191.73014 H 33.948067 Z m 28.418658,0 v 33.54255 H 79.813463 V 191.73091 H 62.36783 Z m 28.419448,0 v 9.46643 h 7.154543 v 14.60967 h -7.154543 v 9.46568 h 24.157556 v -9.46568 h -7.15454 V 191.73014 H 90.785383 Z m -19.825373,9.46643 h 6.972093 v 14.60967 h -6.972093 z m 19.825373,32.05744 v 33.54408 H 108.23133 V 233.25478 H 90.785699 Z m -56.838106,0.002 v 9.46493 h 7.154937 v 14.60967 h -7.154937 v 9.4672 h 24.157558 v -9.46752 H 44.238683 V 233.25568 H 33.948067 Z m 28.418658,0 v 9.46493 h 7.156122 v 14.60967 h -7.156122 v 9.4672 h 24.159137 v -9.46752 H 72.656948 V 233.25568 H 62.366331 Z m 37.011944,9.46493 h 6.97209 v 14.60967 h -6.97209 z"
        color="#000000"
        color-rendering="auto"
        dominant-baseline="auto"
        image-rendering="auto"
        shape-rendering="auto"
        solid-color="#000000"
-       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;stroke-width:0.774391"
        id="path6" />
   </g>
 </svg>
