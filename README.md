@@ -2,6 +2,14 @@
 
 ![Icon theme preview](./icon-theme-preview.png)
 
+![New device icons](./new-device-icons.png)
+
+![Fixed dark-theme miniatures](./fixed-miniatures.png)
+
+![No more Apple branding](./no-more-apples.png)
+
+![Better XFCE](./xfce.png)
+
 Nice dark icon theme, extending the WhiteSur-Dark theme.
 This is an extension of the WhiteSur icon theme, so i recommend
 to install both themes. But it'll also work mostly fine standalone.
