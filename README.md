@@ -16,6 +16,10 @@ to install both themes. But it'll also work mostly fine standalone.
 
 ## What is my goal
 
+Disclaimer: sorry if my comparisons with other icon-packs looks disrespectful.
+My work is based on work of other creators, and I am just aiming to
+improve our pretty desktops :)
+
 I want to bring iOS or Android like experience in desktop icons at any
 Linux DE.
 
