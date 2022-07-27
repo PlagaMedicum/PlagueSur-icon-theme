@@ -1,0 +1,26 @@
+<svg id="svg1050" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs1040">
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1028" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient1117" x1="127.94727" x2="91.947273" y1="224.05273" y2="188.05273" gradientTransform="matrix(.20787216 0 0 .20787216 -37.493613 -36.359814)" gradientUnits="userSpaceOnUse">
+            <stop id="stop972" stop-color="#241f31" offset="0"/>
+            <stop id="stop974" stop-color="#3d3846" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect1042" transform="matrix(.26458 0 0 .26458 -6.032526e-5 -6.032526e-5)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#4b4653" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <g id="g3663" transform="translate(-26.946662,-89.644183)" stroke-linecap="round" stroke-width="1.00011">
+        <path id="rect1044" d="m35.413162 105.38684h3.307227c2.198657 0 3.968672-1.77001 3.968672-3.96867v-6.614972c0-2.19866-1.770015-3.968672-3.968672-3.968672h-3.307227z" fill="#e1e0dd"/>
+        <path id="path1349" d="m35.413162 105.38684v-14.552314h-3.307226c-2.19866 0-3.968672 1.770012-3.968672 3.968672v6.614972c0 2.19866 1.770012 3.96867 3.968672 3.96867z" fill="#4b4653"/>
+    </g>
+    <g id="g14062" transform="matrix(.48760612 0 0 .48760612 17.362689 3.2933862)">
+        <path id="path1091" d="m-11.926549 1.5494881c-0.295828 0.1261763-0.567626 0.3091066-0.797867 0.5425921l-0.0011-0.00156-2.566201 2.5662012-1.603488-1.6040049c-0.374169-0.374169-0.748777 0-0.748777 0l-1.187501 1.187501s-0.374169 0.3740909 0 0.74826l1.781792 1.7812621-9.395624 9.3956234c-0.793734 1.190602-0.396867 2.381203-1.587468 3.571805l1.190601 1.190602c1.190602-1.190602 2.800079-0.780667 3.571805-1.587469l9.395624-9.395624 1.778669 1.778668c0.374171 0.374172 0.748258 0 0.748258 0l1.187501-1.187501c0.3741692-0.374169 0-0.7482602 0-0.7482602l-1.604005-1.6040049 2.551216-2.5512151 0.014472-0.01447c0.2032277-0.2005613 0.365848-0.4337607 0.4883318-0.6857328a15.874828 15.874687 0 0 0-3.2162798-3.382672z" opacity=".309" style="paint-order:normal"/>
+        <path id="path1099" d="m-16.534058 5.1958333-9.911216 9.9112157c-0.793734 1.190602-0.396867 2.381203-1.587469 3.571805l1.190602 1.190602c1.190601-1.190602 2.800079-0.780666 3.571804-1.587469l9.911217-9.9112163z" fill="#fff" opacity=".6" style="paint-order:normal"/>
+        <path id="path1101" d="m-25.65154 15.503917 9.127946-9.1279456" fill="none" opacity=".6" stroke="#fff" stroke-linecap="round" stroke-width="1.58747"/>
+        <path id="path1103" d="m-25.65154 14.885578 9.127946-9.1279455" fill="none" opacity=".6" stroke="#fff" stroke-linecap="round" stroke-width=".793734"/>
+        <path id="path1105" d="m-10.95093 0.29064227c-0.666672 7.9373e-4 -1.305308 0.26829213-1.773409 0.74298103l-0.0012-0.00119-2.565928 2.5659209-1.603917-1.6039189c-0.374169-0.3741703-0.748339 2e-6 -0.748339 2e-6l-1.187472 1.1874683s-0.37417 0.3741684-1e-6 0.7483387l6.735065 6.7350587c0.37417 0.37417 0.74834 2e-6 0.74834 2e-6l1.187471-1.1874707c0.3741699-0.3741703 0-0.7483407 0-0.7483407l-1.603864-1.6038613 2.5513066-2.5513063 0.014605-0.014605-3.969e-4 -3.969e-4c0.4746294-0.4684005 0.7419135-1.1073507 0.7422091-1.7741848 0-1.3776569-1.11681-2.494467-2.4944648-2.494465z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1117)" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+        <circle id="circle1109" cx="-11.364321" cy="1.8781438" r=".79373437" fill="#fff" fill-opacity=".275591" style="paint-order:normal"/>
+    </g>
+    <rect id="rect1047" x="1.2400801" y="1.2400801" width="14.45284" height="14.45284" ry="3.9416568" fill="none" stroke="#4b4653" stroke-linecap="round" stroke-width=".231246"/>
+    <rect id="rect11527" x="1.4439166" y="1.4439166" width="14.045167" height="14.045167" ry="3.8304739" fill="none" stroke="#e1e0dd" stroke-linecap="round" stroke-width=".22459"/>
+</svg>

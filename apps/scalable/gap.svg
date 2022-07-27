@@ -1,0 +1,17 @@
+<svg id="svg49" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs19">
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur9" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient38719" x1="12.472511" x2="2.508255" y1="12.096399" y2="2.2391186" gradientUnits="userSpaceOnUse">
+            <stop id="stop38713" stop-color="#2e3585" offset="0"/>
+            <stop id="stop38715" stop-color="#161a51" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect21" transform="scale(.26458)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <rect id="rect23" x="1.1906" y="1.1906" width="14.552" height="14.552" ry="3.9686999" fill="url(#linearGradient38719)" stroke-linecap="round" stroke-width=".72611"/>
+    <g id="g46180" transform="matrix(1.2382757,0,0,1.2382757,-2.0173611,-2.9501894)" fill="#d4da46" font-family="sans-serif" font-size="10.5831px" stroke-width=".264578">
+        <text id="text31974" x="3.5502942" y="8.9697266" style="line-height:1.25" xml:space="preserve"><tspan id="tspan36793" x="3.5502942" y="8.9697266" fill="#d4da46" font-family="'TeX Gyre Bonum Math'" font-size="4.58602px" stroke-width=".264578" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">GAP </tspan></text>
+        <text id="text31974-2" x="7.0333686" y="12.652628" style="line-height:1.25" xml:space="preserve"><tspan id="tspan36793-8" x="7.0333686" y="12.652628" fill="#d4da46" font-family="'TeX Gyre Bonum Math'" font-size="4.58602px" stroke-width=".264578" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">4</tspan></text>
+    </g>
+</svg>
