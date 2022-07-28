@@ -8,7 +8,7 @@
    version="1.1"
    id="svg34"
    sodipodi:docname="pop-shop.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -52,14 +52,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="7.8185005"
-     inkscape:cx="23.661826"
+     inkscape:cx="10.679797"
      inkscape:cy="24.045531"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg34" />
+     inkscape:current-layer="svg34"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <linearGradient
      id="a"
      x2="1"
@@ -89,12 +91,12 @@
        stop-color="#00576c"
        offset="0"
        id="stop7"
-       style="stop-color:#3c20a9;stop-opacity:1" />
+       style="stop-color:#293dd6;stop-opacity:1;" />
     <stop
        stop-color="#69d3df"
        offset="1"
        id="stop9"
-       style="stop-color:#69f1df;stop-opacity:1" />
+       style="stop-color:#69f1ef;stop-opacity:1;" />
   </linearGradient>
   <g
      transform="matrix(.984909 0 0 .984909 .362182 .360673)"
