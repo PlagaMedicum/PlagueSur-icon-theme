@@ -5,7 +5,7 @@
    viewBox="0 0 16.933 16.933"
    version="1.1"
    id="svg59497"
-   sodipodi:docname="folder-gnome.svg"
+   sodipodi:docname="folder-apple.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="8.15625"
-     inkscape:cx="13.609195"
-     inkscape:cy="38.62069"
+     inkscape:cx="30.651341"
+     inkscape:cy="28.812261"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
@@ -403,37 +403,52 @@
          id="stop5281" />
     </linearGradient>
     <linearGradient
-       id="_Linear2-6"
+       id="_Linear2-3"
        x2="1"
-       gradientTransform="matrix(0,25.2714,-25.2714,0,-486.519,20.5182)"
+       gradientTransform="matrix(0,23.1524,-23.1524,0,-9892.8,22.7563)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:rgb(19,112,152)"
+         style="stop-color:rgb(18,109,152)"
          offset="0"
-         id="stop322" />
-      <stop
-         style="stop-color:rgb(16,101,151)"
-         offset=".42"
          id="stop324" />
       <stop
-         style="stop-color:rgb(11,78,148)"
+         style="stop-color:rgb(14,93,150)"
          offset="1"
          id="stop326" />
     </linearGradient>
     <linearGradient
-       id="_Linear2-3"
+       id="_Linear2-7"
        x2="1"
-       gradientTransform="matrix(0.0550288,25.1058,-25.1058,0.0550288,-457.515,20.5172)"
+       gradientTransform="matrix(0,9.00953,-15.999,0,-6834.33,21.2446)"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:rgb(18,108,152)"
+         style="stop-color:#126d98"
          offset="0"
-         id="stop327" />
+         id="stop15" />
       <stop
-         style="stop-color:rgb(11,79,148)"
+         style="stop-color:#0e5d96"
          offset="1"
-         id="stop329" />
+         id="stop17" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath593">
+      <circle
+         cx="20"
+         cy="27.254"
+         r="1"
+         style="display:none;fill:#1195fa"
+         id="circle595" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect597"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -503,7 +518,7 @@
            inkscape:path-effect="#path-effect3000-3"
            d="m 146.02917,-187.75 16.95744,0 a 0.52916667,0.52916667 45 0 1 0.52917,0.52917 v 22.44166 a 0.52916667,0.52916667 135 0 1 -0.52917,0.52917 H 146.02917 A 0.52916667,0.52916667 45 0 1 145.5,-164.77917 v -22.44166 a 0.52916667,0.52916667 135 0 1 0.52917,-0.52917 z"
            sodipodi:type="rect"
-           transform="matrix(0,0.99998889,-1.0001374,0,-0.02418205,-0.57325248)" />
+           transform="rotate(90,0.28748473,-0.28748433)" />
         <path
            style="fill:#3ec300;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
            id="rect2392-1-1-0"
@@ -582,9 +597,9 @@
            style="display:inline;opacity:0.3;fill:url(#linearGradient128509);fill-opacity:1;stroke:none;stroke-width:2.77827;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.03"
            id="path1611-1-1" />
         <path
-           style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.363069"
-           d="m -0.14892986,5.0539283 c -1.84366474,0 -2.18930654,2.8018041 -1.15201814,2.8018041 1.03692522,0 2.9960461,-2.8018041 1.15201814,-2.8018041 z m -2.83992634,0.430963 c -0.029045,0 -0.059906,0.00291 -0.092946,0.00617 -1.0452759,0.1317941 -0.6774869,1.9003035 -0.1212651,1.9333428 0.5377054,0.03195 1.1273296,-1.9362474 0.2131216,-1.939515 z m -1.8113517,0.6527983 c -0.0639,-0.00399 -0.1346986,0.00799 -0.2134846,0.040301 -0.8397788,0.3449156 -0.1274372,1.7685095 0.3427372,1.6730224 0.4266062,-0.086774 0.4879649,-1.6733857 -0.1292526,-1.7133234 z M -6.1707937,7.301689 c -0.072977,-0.00218 -0.1521259,0.023236 -0.2363579,0.085684 -0.6720409,0.5017615 0.2265551,1.7140498 0.6219373,1.5259798 0.3460049,-0.1644711 0.1252589,-1.5931476 -0.3859424,-1.6116641 z m 3.9701605,1.1571011 c -1.4562701,-0.025052 -3.3779948,0.7137938 -3.7058462,2.1994729 -0.3547184,1.606218 1.4609901,3.835461 3.3547584,3.835461 0.9319983,0 2.00704585,-0.85176 2.20818615,-1.930438 0.15357815,-0.822352 -1.80735795,-0.492685 -1.73728555,0.05119 0.084595,0.652436 -0.472716,0.974841 -1.0184088,0.554406 C -4.8372409,11.830247 -0.22190678,11.1622 -0.52652175,9.3330579 -0.62128275,8.7637674 -1.3278151,8.4740383 -2.2013594,8.4587894 Z"
-           id="path1243" />
+           style="opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:0.47199"
+           d="m -1.1404084,5.0539284 c -0.4677419,0.01652 -1.0360176,0.2732821 -1.3716024,0.6187786 -0.3016014,0.3067934 -0.5668597,0.7953028 -0.4960612,1.2649327 0.5224927,0.035871 1.0577291,-0.233635 1.3829301,-0.5791315 0.324729,-0.3464405 0.5446762,-0.8255102 0.4847335,-1.3045798 z m -0.3096253,1.8926791 c -0.6206666,0.049559 -1.1875263,0.4573581 -1.5084794,0.4573581 -0.3653201,0 -0.9293479,-0.4431984 -1.528303,-0.4313987 -0.7872789,0.012744 -1.5141432,0.4899254 -1.9195825,1.2465253 -0.8174863,1.522639 -0.2105074,3.7782778 0.5866834,5.0134748 0.3893915,0.604619 0.8665732,1.261157 1.4655283,1.261157 0.598955,0 0.8094625,-0.409215 1.5193351,-0.409215 0.7098727,0 0.9038605,0.409215 1.5306629,0.409215 0.62680253,0 1.03082583,-0.629162 1.41785743,-1.235197 0.4469743,-0.701377 0.6324663,-1.381514 0.6433221,-1.416441 -0.0141597,-0.0066 -1.2323654,-0.505974 -1.2446371,-2.0116208 -0.0117997,-1.260213 0.9600273,-1.8653037 1.0029783,-1.8950391 -0.5446762,-0.8557175 -1.3937859,-0.9732429 -1.69633133,-0.9864587 -0.09015,-0.00991 -0.1803001,-0.00897 -0.2690342,-0.00189 z"
+           id="path14" />
       </g>
     </g>
   </g>

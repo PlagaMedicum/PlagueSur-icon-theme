@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="5.7673397"
-     inkscape:cx="9.9699347"
-     inkscape:cy="52.190441"
+     inkscape:zoom="8.15625"
+     inkscape:cx="11.218391"
+     inkscape:cy="28.444444"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
@@ -254,11 +254,11 @@
        inkscape:collect="always"
        id="linearGradient58989">
       <stop
-         style="stop-color:#0088ff;stop-opacity:1;"
+         style="stop-color:#005fb2;stop-opacity:1;"
          offset="0"
          id="stop58985" />
       <stop
-         style="stop-color:#52d0ff;stop-opacity:1;"
+         style="stop-color:#99e3ff;stop-opacity:1;"
          offset="1"
          id="stop58987" />
     </linearGradient>
@@ -513,10 +513,10 @@
        id="linearGradient2885"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(3.5710071,0,0,3.5710071,-703.91185,-550.36292)"
-       x1="174.04469"
-       y1="163.52335"
-       x2="173.90472"
-       y2="147.95204" />
+       x1="173.99211"
+       y1="165.0668"
+       x2="173.88713"
+       y2="150.79655" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient128516"
@@ -547,6 +547,36 @@
        y1="294.62"
        x2="8.467"
        y2="293.56" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1149"
+       x="-0.086415446"
+       y="-0.066248581"
+       width="1.1728309"
+       height="1.1324972">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.64868402"
+         id="feGaussianBlur1151" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3000-3-6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <g
      id="g60809"
@@ -583,7 +613,18 @@
              id="g23097"
              transform="matrix(3.3223682,0,0,3.3223682,-661.12063,-513.95246)">
             <path
-               style="fill:#3df55b;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+               style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers;filter:url(#filter1149)"
+               id="rect2392-6"
+               width="18.015778"
+               height="23.5"
+               x="145.5"
+               y="-187.75"
+               sodipodi:type="rect"
+               transform="matrix(0,1.069929,-1.069929,0,-12.307504,-13.498051)"
+               d="m 146.02917,-187.75 16.95744,0 a 0.52916667,0.52916667 45 0 1 0.52917,0.52917 v 22.44166 a 0.52916667,0.52916667 135 0 1 -0.52917,0.52917 H 146.02917 A 0.52916667,0.52916667 45 0 1 145.5,-164.77917 v -22.44166 a 0.52916667,0.52916667 135 0 1 0.52917,-0.52917 z"
+               inkscape:path-effect="#path-effect3000-3-6" />
+            <path
+               style="fill:#3ec300;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
                id="rect2392-1-1-0"
                width="16.865835"
                height="22"
@@ -605,7 +646,7 @@
                sodipodi:type="rect"
                transform="rotate(90)" />
             <path
-               style="fill:#fb4c37;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+               style="fill:#ff1d15;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
                id="rect2392-1"
                width="17.632463"
                height="23"
@@ -641,7 +682,8 @@
              id="path1611-1" />
           <g
              id="g138322"
-             transform="matrix(5.9220871,0,0,5.9220871,-1358.6822,-1030.8775)">
+             transform="matrix(5.9220871,0,0,5.9220871,-1358.6822,-1030.8775)"
+             style="opacity:0.7">
             <path
                fill="url(#c)"
                d="m 208.40213,178.62859 h 16.30589 l -0.10531,0.57578 h -16.06966 z"

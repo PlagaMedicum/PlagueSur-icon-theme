@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="5.977262"
-     inkscape:cx="-1.0874544"
-     inkscape:cy="27.855563"
+     inkscape:zoom="8.453125"
+     inkscape:cx="26.321627"
+     inkscape:cy="22.358595"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
@@ -34,30 +34,6 @@
      showguides="false" />
   <defs
      id="defs36">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4929">
-      <stop
-         style="stop-color:#f26227;stop-opacity:1;"
-         offset="0.00187928"
-         id="stop4925" />
-      <stop
-         style="stop-color:#fb9d9d;stop-opacity:1;"
-         offset="1"
-         id="stop4927" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4923">
-      <stop
-         style="stop-color:#27b9f2;stop-opacity:1;"
-         offset="0.00187928"
-         id="stop4919" />
-      <stop
-         style="stop-color:#a1f3f7;stop-opacity:1;"
-         offset="1"
-         id="stop4921" />
-    </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect4797"
@@ -75,18 +51,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2592">
-      <stop
-         style="stop-color:#c4f227;stop-opacity:1;"
-         offset="0.00187928"
-         id="stop2588" />
-      <stop
-         style="stop-color:#effb9d;stop-opacity:1;"
-         offset="1"
-         id="stop2590" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text { color:#727272; } .ColorScheme-Highlight { color:#5294e2; }</style>
@@ -224,16 +188,6 @@
          offset="1"
          id="stop1031" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2592"
-       id="linearGradient2413"
-       gradientUnits="userSpaceOnUse"
-       x1="3.8206823"
-       y1="10.926506"
-       x2="6.0028791"
-       y2="2.5439093"
-       gradientTransform="matrix(1.4235721,0,0,1.4235721,-16.804645,-0.32123164)" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect4797-7"
@@ -268,16 +222,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4929"
-       id="linearGradient4876"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4235722,0,0,1.4235722,-18.731105,-1.8303109)"
-       x1="3.8206823"
-       y1="10.926506"
-       x2="6.0028791"
-       y2="2.5439093" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect4797-7-2-3"
@@ -295,16 +239,6 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4923"
-       id="linearGradient4916"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4235721,0,0,1.4235721,-17.46132,-0.90500258)"
-       x1="3.8206823"
-       y1="10.926506"
-       x2="6.0028791"
-       y2="2.5439093" />
   </defs>
   <g
      id="g567"
@@ -359,7 +293,7 @@
            width="8.4328375"
            height="10.19805"
            fill="#3cd0f2"
-           style="fill:url(#linearGradient2413);fill-opacity:1;stroke:#ffffff;stroke-width:0.271506;stroke-linecap:round"
+           style="fill:#53dd6c;fill-opacity:1;stroke:#ffffff;stroke-width:0.271506;stroke-linecap:round"
            sodipodi:type="rect"
            d="m -11.208055,4.9535913 h 8.4328379 V 15.151641 h -8.4328379 z" />
         <path
@@ -370,7 +304,7 @@
            width="8.4328375"
            height="10.19805"
            fill="#3cd0f2"
-           style="fill:url(#linearGradient4916);fill-opacity:1;stroke:#ffffff;stroke-width:0.271585;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#8a4fff;fill-opacity:1;stroke:#ffffff;stroke-width:0.271585;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:type="rect"
            d="m -11.864732,4.3698201 h 8.4328377 V 14.56787 h -8.4328377 z" />
         <g
@@ -470,7 +404,7 @@
            width="8.4328375"
            height="10.19805"
            fill="#3cd0f2"
-           style="fill:url(#linearGradient4876);fill-opacity:1;stroke:#ffffff;stroke-width:0.271506;stroke-linecap:round"
+           style="fill:#fe5f55;fill-opacity:1;stroke:#ffffff;stroke-width:0.271506;stroke-linecap:round"
            sodipodi:type="rect"
            d="m -13.13451,3.4445126 h 8.4328374 V 13.642562 H -13.13451 Z" />
         <g

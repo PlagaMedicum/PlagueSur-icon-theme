@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="7.0482225"
-     inkscape:cx="28.021249"
-     inkscape:cy="33.19986"
+     inkscape:zoom="9.9676918"
+     inkscape:cx="30.398211"
+     inkscape:cy="27.789784"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
@@ -391,6 +391,36 @@
          offset="1"
          id="stop122098" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1149"
+       x="-0.086415457"
+       y="-0.066248581"
+       width="1.1728309"
+       height="1.1324972">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.64868402"
+         id="feGaussianBlur1151" />
+    </filter>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3000-3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1 @ F,0,0,1,0,0.52916667,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <image
      x="0.52899998"
@@ -421,7 +451,18 @@
          id="g23097"
          transform="matrix(0.9303546,0,0,0.9303546,-166.84353,-136.15847)">
         <path
-           style="fill:#ff7446;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+           style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers;filter:url(#filter1149)"
+           id="rect2392-6"
+           width="18.015778"
+           height="23.5"
+           x="145.5"
+           y="-187.75"
+           inkscape:path-effect="#path-effect3000-3"
+           d="m 146.02917,-187.75 16.95744,0 a 0.52916667,0.52916667 45 0 1 0.52917,0.52917 v 22.44166 a 0.52916667,0.52916667 135 0 1 -0.52917,0.52917 H 146.02917 A 0.52916667,0.52916667 45 0 1 145.5,-164.77917 v -22.44166 a 0.52916667,0.52916667 135 0 1 0.52917,-0.52917 z"
+           sodipodi:type="rect"
+           transform="matrix(0,0.99999796,-0.99999796,0,3.5939018e-4,-0.57465387)" />
+        <path
+           style="fill:#ff7700;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
            id="rect2392-1-1-0"
            width="16.865835"
            height="22"
@@ -443,7 +484,7 @@
            sodipodi:type="rect"
            transform="rotate(90)" />
         <path
-           style="fill:#d637fb;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+           style="fill:#3772ff;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
            id="rect2392-1"
            width="17.632463"
            height="23"
