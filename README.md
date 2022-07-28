@@ -1,18 +1,18 @@
 # PlagueSur icon theme
 
+Nice dark icon theme, based on WhiteSur-Dark, Big-Sur and other icon themes,
+that took the best from every theme, adopted and redrawed something completely
+to make the largest human-design icon pack!
+
 ![Icon theme preview](./icon-theme-preview.png)
 
 ![New device icons](./new-device-icons.png)
 
-![Fixed dark-theme miniatures](./fixed-miniatures.png)
-
-![No more Apple branding](./no-more-apples.png)
+![Fixed dark-theme miniatures and no more Apple branding](./diff.png)
 
 ![Better XFCE](./xfce.png)
 
-Nice dark icon theme, extending the WhiteSur-Dark theme.
-This is an extension of the WhiteSur icon theme, so i recommend
-to install both themes. But it'll also work mostly fine standalone.
+![Screenshot](./screen.png)
 
 ## What is my goal
 
@@ -22,10 +22,6 @@ improve our pretty desktops :)
 
 I want to bring iOS or Android like experience in desktop icons at any
 Linux DE.
-
-I've been also inspired by the Apple's
-[Humman interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
-[These tips](https://lawsofux.com/) also helped me.
 
 So the icons must be:
 - distinguishable and contrast;
@@ -41,19 +37,24 @@ variations as possible, and sometimes they can be not ideal in realisation.
 So i'm open for your contributions, let's make Linux to look consistently and modern!
 
 I am not the fan of big corporations, so i'll prefer to avoid some corporational
-branding where it is no needed.
+branding where it is not needed.
 
-## Differences from White Sur
+I've been also inspired by the Apple's
+[Humman interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
+[These tips](https://lawsofux.com/) also helped me.
 
-0. More icons. Some icons were fixed or redrawed to fit general style.
+## Differences from White Sur and others
+
+0. More icons. Some icons were fixed or redrawed completely to fit general style.
 1. No unnecessary Apple branding. It was replaced with Tux logo.
 2. More compatibility with dark colour scheme.
 
 ## Installation
 
-**Important!** I recommend you to also install the
+I recommend you to also install the
 [WhiteSur-Dark icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme),
 so there will be a less chance of missing icons.
+But in most cases you'll get full experience using this theme stand-alone.
 
 ### Manual installation from the repo
 
@@ -65,14 +66,16 @@ Then go the Appearance settings and choose the **PlagueSur** icon theme.
 
 ## TODO
 
-- Define general style, rules and create guidelines.
-- Make Tux logo more distinguishable for low-res.
 - Fix colours and styles of some symbolic and low-res icons.
 - Fix icons that are not inhereting from WhiteSur and replaced with other resolutions.
 - Fix some little issues in high-res icons.
 - Change resolutions of some icons (mostly in apps/scalable).
 - Add light-themes support
 
-If you found problem or want to contribute,
-feel free to open an issue or create a PR!
+Optional:
+- Create some guidelines.
+- Make Tux logo more distinguishable for low-res.
+
+**If you found problem or want to contribute,
+feel free to open an issue, write some comment or create a PR!**
 
