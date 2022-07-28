@@ -12,7 +12,7 @@ to make the largest human-design icon pack!
 
 ![Better XFCE](./xfce.png)
 
-![Screenshot](./screen.png)
+![Screenshot](./screen.jpg)
 
 ## What is my goal
 
