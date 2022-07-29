@@ -1,1 +1,220 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" version="1.1" viewBox="0 0 384 384"> <defs> <filter id="alpha" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/> </filter> <mask id="mask0"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/> </g> </mask> <clipPath id="clip1"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface5" clip-path="url(#clip1)"> <path style="fill:rgb(0%,0%,0%)" d="M 24 336 L 24 348 C 24 357.972656 32.027344 366 42 366 L 342 366 C 351.972656 366 360 357.972656 360 348 L 360 336 C 360 345.972656 351.972656 354 342 354 L 42 354 C 32.027344 354 24 345.972656 24 336 Z M 24 336"/> </g> <mask id="mask1"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.2"/> </g> </mask> <clipPath id="clip2"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface8" clip-path="url(#clip2)"> <path style="fill:rgb(0%,0%,0%)" d="M 72 114 L 72 354 L 108 354 L 108 214.96875 L 172.992188 150 L 192 150 L 192 212.113281 C 177.632812 217.191406 168.023438 230.761719 168 246 C 168 265.882812 184.117188 282 204 282 C 223.882812 282 240 265.882812 240 246 C 239.988281 230.753906 230.375 217.167969 216 212.085938 L 216 149.996094 L 240 149.996094 L 240 113.996094 L 72 113.996094 Z M 108 150 L 139.007812 150 L 108 181.007812 Z M 204 234 C 210.628906 234 216 239.371094 216 246 C 216 252.628906 210.628906 258 204 258 C 197.371094 258 192 252.628906 192 246 C 192 239.371094 197.371094 234 204 234 Z M 204 234"/> </g> <mask id="mask2"> <g filter="url(#alpha)"> <rect width="384" height="384" x="0" y="0" style="fill:rgb(0%,0%,0%);fill-opacity:0.101961"/> </g> </mask> <clipPath id="clip3"> <rect width="384" height="384" x="0" y="0"/> </clipPath> <g id="surface11" clip-path="url(#clip3)"> <path style="fill:rgb(100.000%,100.000%,100.000%)" d="M 42 24 C 32.027344 24 24 32.027344 24 42 L 24 48 C 24 38.027344 32.027344 30 42 30 L 342 30 C 351.972656 30 360 38.027344 360 48 L 360 42 C 360 32.027344 351.972656 24 342 24 Z M 42 24"/> </g> </defs> <g> <use mask="url(#mask0)" xlink:href="#surface5"/> <path style="fill:rgb(54.901%,25.882%,67.058%)" d="M 360 342 L 360 42 C 360 32.058594 351.941406 24 342 24 L 42 24 C 32.058594 24 24 32.058594 24 42 L 24 342 C 24 351.941406 32.058594 360 42 360 L 342 360 C 351.941406 360 360 351.941406 360 342 Z M 360 342"/> <use mask="url(#mask1)" xlink:href="#surface8"/> <use mask="url(#mask2)" xlink:href="#surface11"/> <path style="fill:rgb(29.019%,68.235%,90.196%)" d="M 72 108 L 72 348 L 108 348 L 108 208.96875 L 172.992188 144 L 192 144 L 192 206.113281 C 177.632812 211.191406 168.023438 224.761719 168 240 C 168 259.882812 184.117188 276 204 276 C 223.882812 276 240 259.882812 240 240 C 239.988281 224.753906 230.375 211.167969 216 206.085938 L 216 143.996094 L 240 143.996094 L 240 107.996094 L 72 107.996094 Z M 108 144 L 139.007812 144 L 108 175.007812 Z M 204 228 C 210.628906 228 216 233.371094 216 240 C 216 246.628906 210.628906 252 204 252 C 197.371094 252 192 246.628906 192 240 C 192 233.371094 197.371094 228 204 228 Z M 204 228"/> </g> </svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Calculator"
+   width="64"
+   height="64"
+   enable-background="new 0 0 1024 1024"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   viewBox="0 0 64 64"
+   sodipodi:docname="khangman.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview215"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="6.887845"
+     inkscape:cx="18.07532"
+     inkscape:cy="34.553623"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calculator" />
+  <defs
+     id="defs192">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1919">
+      <stop
+         style="stop-color:#4761eb;stop-opacity:1;"
+         offset="0"
+         id="stop1917" />
+      <stop
+         style="stop-color:#99f1ff;stop-opacity:1;"
+         offset="1"
+         id="stop1915" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect537"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.0089702718,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0.000524,0,1 | F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 | F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="1"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <filter
+       id="filter911"
+       x="-0.069000988"
+       y="-0.053076336"
+       width="1.138002"
+       height="1.1061527"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.5750183"
+         id="feGaussianBlur179" />
+    </filter>
+    <linearGradient
+       id="linearGradient921"
+       x1="14"
+       x2="34.001"
+       y1="24.006"
+       y2="24.006"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop182" />
+      <stop
+         stop-color="#e6e6e6"
+         offset="1"
+         id="stop184" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient862-3"
+       x1="7.9373"
+       x2="7.9373"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7795 0 0 3.7795 .00014314 .031541)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#292929"
+         offset="0"
+         id="stop187"
+         style="stop-color:#701050;stop-opacity:1;" />
+      <stop
+         stop-color="#4d4d4d"
+         offset="1"
+         id="stop189"
+         style="stop-color:#6329a3;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1919"
+       id="linearGradient1921"
+       x1="20.922031"
+       y1="47.804867"
+       x2="20.89719"
+       y2="16.017202"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2004"
+       x="-0.2331451"
+       y="-0.1631989"
+       width="1.4662902"
+       height="1.3263978">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1775065"
+         id="feGaussianBlur2006" />
+    </filter>
+  </defs>
+  <g
+     transform="scale(3.7796)"
+     shape-rendering="auto"
+     id="g204">
+    <path
+       d="m4.3693 0.52916c-2.1142 0-3.8402 1.7835-3.8402 3.9682v8.4675c0 2.1846 1.726 3.9682 3.8402 3.9682h8.1944c2.1142 0 3.8402-1.7835 3.8402-3.9682v-8.4675c0-2.1846-1.726-3.9682-3.8402-3.9682zm0.25704 0.52089h7.6808c1.8443 0 3.3291 1.5342 3.3291 3.44v7.9368c0 1.9058-1.4847 3.44-3.3291 3.44h-7.6808c-1.8443 0-3.3291-1.5342-3.3291-3.44v-7.9368c0-1.9058 1.4847-3.44 3.3291-3.44z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       enable-background="accumulate"
+       image-rendering="auto"
+       opacity=".01"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path194" />
+    <path
+       d="m4.3587 0.79373c-1.9668 0-3.5639 1.6528-3.5639 3.6876v8.4996c0 2.0348 1.5971 3.6876 3.5639 3.6876h8.2162c1.9668 0 3.5644-1.6528 3.5644-3.6876v-8.4996c0-2.0348-1.5976-3.6876-3.5644-3.6876zm0.27222 0.25631h7.6718c1.8422 0 3.3251 1.5342 3.3251 3.44v7.9368c0 1.9058-1.483 3.44-3.3251 3.44h-7.6718c-1.8422 0-3.3251-1.5342-3.3251-3.44v-7.9368c0-1.9058 1.483-3.44 3.3251-3.44z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       enable-background="accumulate"
+       image-rendering="auto"
+       opacity=".01"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path196" />
+    <path
+       d="m4.3097 1.0583c-1.8657 0-3.3751 1.5383-3.3751 3.439v8.4675c0 1.9007 1.57 3.439 3.4357 3.439h8.1996c1.8657 0 3.4274-1.5383 3.4274-3.439v-8.4675c0-1.9007-1.51-3.439-3.3756-3.439h-0.09688c1.794 0.086515 3.2138 1.5819 3.2138 3.4318v7.9368c0 1.9058-1.5059 3.44-3.3766 3.44h-7.7905c-1.8707 0-3.3766-1.5342-3.3766-3.44v-7.9368c0-1.8498 1.4199-3.3451 3.2138-3.4318z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       enable-background="accumulate"
+       image-rendering="auto"
+       opacity=".03"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path198" />
+    <path
+       transform="scale(.26458)"
+       d="m4 46.969v2.0312c0 6.6479 5.8957 12 12.544 12h30.961c6.6479 0 12.495-5.3521 12.495-12v-1.9922c-0.02117 7.1849-5.81 12.963-13 12.963h-29.998c-7.2032 0-13.002-5.7987-13.002-13.002z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       enable-background="accumulate"
+       image-rendering="auto"
+       opacity=".03"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path200" />
+    <path
+       d="m1.0583 11.906v0.59234c0 1.9386 1.5729 3.4993 3.3318 3.4993h8.1603c1.7589 0 3.3243-1.5608 3.3243-3.4993v-0.58095c-0.0056 2.0952-1.5372 3.7801-3.4395 3.7801h-7.9368c-1.9058 0-3.44-1.691-3.44-3.7915z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       enable-background="accumulate"
+       image-rendering="auto"
+       opacity=".05"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+       id="path202" />
+  </g>
+  <rect
+     x="4"
+     y="4"
+     width="56"
+     height="56"
+     rx="13.002"
+     ry="13.002"
+     fill="url(#linearGradient862-3)"
+     stroke-width="3.7795"
+     id="rect206" />
+  <path
+     style="fill:#01070b;fill-opacity:1;stroke-width:0.133424;filter:url(#filter2004);opacity:0.5"
+     d="m 20.792354,15.989339 v 32.021846 h 4.803275 V 29.461027 l 8.671543,-8.668412 h 2.536104 v 8.287426 c -1.916933,0.677547 -3.199057,2.488157 -3.202184,4.521315 0,2.652849 2.150425,4.803276 4.803277,4.803276 2.652852,0 4.803277,-2.150427 4.803277,-4.803276 -0.0016,-2.034204 -1.284211,-3.846899 -3.202185,-4.52496 v -8.284305 h 3.202185 V 15.988815 H 20.792354 Z m 4.803275,4.803276 h 4.137197 l -4.137197,4.137198 z m 12.80874,11.207646 c 0.884458,0 1.601092,0.716632 1.601092,1.601095 0,0.884455 -0.716634,1.601086 -1.601092,1.601086 -0.884459,0 -1.601093,-0.716631 -1.601093,-1.601086 0,-0.884463 0.716634,-1.601095 1.601093,-1.601095 z m 0,0"
+     id="path48-7" />
+  <path
+     style="fill:url(#linearGradient1921);stroke-width:0.133424;fill-opacity:1"
+     d="M 20.792354,15.989339 V 48.011185 H 25.59563 V 29.461027 l 8.671543,-8.668412 h 2.536104 v 8.287426 c -1.916933,0.677547 -3.199057,2.488157 -3.202184,4.521315 0,2.652849 2.150425,4.803276 4.803276,4.803276 2.652852,0 4.803277,-2.150427 4.803277,-4.803276 -0.0016,-2.034204 -1.28421,-3.846899 -3.202185,-4.52496 v -8.284305 h 3.202185 V 15.988815 H 20.792354 Z m 4.803276,4.803276 h 4.137197 l -4.137197,4.137198 z m 12.808739,11.207646 c 0.884458,0 1.601092,0.716632 1.601092,1.601095 0,0.884455 -0.716634,1.601086 -1.601092,1.601086 -0.884458,0 -1.601092,-0.716631 -1.601092,-1.601086 0,-0.884463 0.716634,-1.601095 1.601092,-1.601095 z m 0,0"
+     id="path48" />
+</svg>
