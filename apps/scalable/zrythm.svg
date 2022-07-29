@@ -7,7 +7,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg4084"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="zrythm.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -35,11 +35,11 @@
       <stop
          id="stop2989"
          offset="0"
-         style="stop-color:#b90909;stop-opacity:1;" />
+         style="stop-color:#e4245d;stop-opacity:1;" />
       <stop
          id="stop2987"
          offset="1"
-         style="stop-color:#f4843e;stop-opacity:1;" />
+         style="stop-color:#ff6500;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -99,8 +99,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="36.870568"
-     inkscape:cy="72.604714"
+     inkscape:cx="49.623743"
+     inkscape:cy="72.730983"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"

@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg24"
-   sodipodi:docname="half-life.svg"
+   sodipodi:docname="half-life-opposing-force.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -164,11 +164,11 @@
     <linearGradient
        id="linearGradient4047">
       <stop
-         style="stop-color:#ef8213;stop-opacity:1;"
+         style="stop-color:#3cae04;stop-opacity:1;"
          offset="0"
          id="stop4049" />
       <stop
-         style="stop-color:#f5cc86;stop-opacity:1;"
+         style="stop-color:#8bf556;stop-opacity:1;"
          offset="1"
          id="stop4051" />
     </linearGradient>
