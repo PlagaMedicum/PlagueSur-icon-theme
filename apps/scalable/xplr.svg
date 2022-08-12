@@ -6,7 +6,7 @@
    version="1.1"
    id="svg835"
    sodipodi:docname="xplr.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,16 +23,28 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="6.4253548"
-     inkscape:cx="29.259084"
-     inkscape:cy="35.562238"
+     inkscape:cx="4.5911862"
+     inkscape:cy="35.484422"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg835" />
+     inkscape:current-layer="g1420" />
   <defs
      id="defs821">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient943">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop939" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="1"
+         id="stop941" />
+    </linearGradient>
     <linearGradient
        id="a"
        x1="7.937"
@@ -49,6 +61,15 @@
          offset="1"
          id="stop818" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient943"
+       id="linearGradient945"
+       x1="2.3482473"
+       y1="14.561999"
+       x2="2.3342679"
+       y2="2.3135269"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <image
      x=".165"
@@ -84,7 +105,8 @@
      rx="2.117"
      ry="2.117"
      fill="#262626"
-     id="rect829" />
+     id="rect829"
+     style="fill-opacity:1;fill:url(#linearGradient945)" />
   <g
      id="g1420"
      transform="matrix(0.36467384,0,0,0.36467384,5.1580259,5.8746628)">
@@ -96,7 +118,7 @@
        rx="1.3228906"
        fill="#37474f"
        id="rect4"
-       style="stroke-width:0.264578" />
+       style="stroke-width:0.264578;fill:#334d4d;fill-opacity:1" />
     <rect
        x="10.659888"
        y="-5.1956077"
@@ -105,7 +127,7 @@
        rx="1.3228906"
        fill="#37474f"
        id="rect6"
-       style="stroke-width:0.264578" />
+       style="stroke-width:0.264578;fill:#334d4d;fill-opacity:1" />
     <rect
        x="-4.1564865"
        y="9.0916109"
@@ -114,7 +136,7 @@
        rx="1.3228906"
        fill="#37474f"
        id="rect8"
-       style="stroke-width:0.264578" />
+       style="stroke-width:0.264578;fill:#334d4d;fill-opacity:1" />
     <rect
        x="10.659888"
        y="9.0916109"
@@ -123,7 +145,7 @@
        rx="1.3228906"
        fill="#37474f"
        id="rect10"
-       style="stroke-width:0.264578" />
+       style="stroke-width:0.264578;fill:#334d4d;fill-opacity:1" />
     <path
        d="M 4.2505893,-2.4516416 2.3592791,0.13728178 4.2505893,2.7417359 H 2.8940973 L 1.6383831,0.951177 0.4136774,2.7417359 H -0.90402747 L 0.97953062,0.1605382 -0.90402747,-2.4516416 h 1.35646556 l 1.25571421,1.84482388 1.185945,-1.84482388 z"
        fill="#ffffff"

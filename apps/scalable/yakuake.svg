@@ -6,7 +6,7 @@
    version="1.1"
    id="svg835"
    sodipodi:docname="yakuake.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8.078125"
-     inkscape:cx="31.938104"
-     inkscape:cy="32.123791"
+     inkscape:cx="24.820116"
+     inkscape:cy="32.061896"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
@@ -33,6 +33,18 @@
      inkscape:current-layer="svg835" />
   <defs
      id="defs821">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient879">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop875" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="1"
+         id="stop877" />
+    </linearGradient>
     <linearGradient
        id="a"
        x1="7.937"
@@ -49,6 +61,15 @@
          offset="1"
          id="stop818" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient879"
+       id="linearGradient881"
+       x1="2.412529"
+       y1="14.357232"
+       x2="2.3929279"
+       y2="2.4878848"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <image
      x=".165"
@@ -84,7 +105,8 @@
      rx="2.117"
      ry="2.117"
      fill="#262626"
-     id="rect829" />
+     id="rect829"
+     style="fill-opacity:1;fill:url(#linearGradient881)" />
   <g
      id="g1435"
      transform="matrix(0.96729105,0,0,0.96729105,-6.7026216,0.70979385)">

@@ -23,16 +23,28 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8.078125"
-     inkscape:cx="34.22824"
-     inkscape:cy="40.603482"
+     inkscape:cx="21.230174"
+     inkscape:cy="25.129594"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g140686" />
+     inkscape:current-layer="svg835" />
   <defs
      id="defs821">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient954">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop950" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="1"
+         id="stop952" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5530">
@@ -380,6 +392,15 @@
        y1="11.816931"
        x2="62.077045"
        y2="25.314043" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient954"
+       id="linearGradient956"
+       x1="2.3449483"
+       y1="14.547741"
+       x2="2.3134787"
+       y2="2.430547"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <image
      x=".165"
@@ -415,7 +436,8 @@
      rx="2.117"
      ry="2.117"
      fill="#262626"
-     id="rect829" />
+     id="rect829"
+     style="fill-opacity:1;fill:url(#linearGradient956)" />
   <g
      id="g1439">
     <path
