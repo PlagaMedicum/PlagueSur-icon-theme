@@ -23,25 +23,25 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="7.7858535"
-     inkscape:cx="34.036089"
-     inkscape:cy="31.210451"
+     inkscape:cx="20.485872"
+     inkscape:cy="21.96291"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg21" />
+     inkscape:current-layer="g4654-5" />
   <defs
      id="defs7">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2120">
       <stop
-         style="stop-color:#ff3366;stop-opacity:1;"
+         style="stop-color:#ff1a53;stop-opacity:1;"
          offset="0"
          id="stop2116" />
       <stop
-         style="stop-color:#ff0040;stop-opacity:1;"
+         style="stop-color:#f0003c;stop-opacity:1;"
          offset="1"
          id="stop2118" />
     </linearGradient>
@@ -49,11 +49,11 @@
        inkscape:collect="always"
        id="linearGradient2112">
       <stop
-         style="stop-color:#ffdd33;stop-opacity:1;"
+         style="stop-color:#ffd91a;stop-opacity:1;"
          offset="0"
          id="stop2108" />
       <stop
-         style="stop-color:#ffd500;stop-opacity:1;"
+         style="stop-color:#f0c800;stop-opacity:1;"
          offset="1"
          id="stop2110" />
     </linearGradient>
@@ -61,11 +61,11 @@
        inkscape:collect="always"
        id="linearGradient2104">
       <stop
-         style="stop-color:#33ff55;stop-opacity:1;"
+         style="stop-color:#1aff40;stop-opacity:1;"
          offset="0"
          id="stop2100" />
       <stop
-         style="stop-color:#00fe2a;stop-opacity:1;"
+         style="stop-color:#00f000;stop-opacity:1;"
          offset="1"
          id="stop2102" />
     </linearGradient>
