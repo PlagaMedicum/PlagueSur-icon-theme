@@ -22,14 +22,14 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="6.7049917"
-     inkscape:cx="37.509368"
+     inkscape:cx="21.849393"
      inkscape:cy="31.319949"
      inkscape:window-width="1366"
      inkscape:window-height="703"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="app-background-dark" />
+     inkscape:current-layer="svg175" />
   <defs
      id="defs162">
     <linearGradient
@@ -56,12 +56,12 @@
          stop-color="#363636"
          offset="0"
          id="stop152"
-         style="stop-color:#d96526;stop-opacity:1;" />
+         style="stop-color:#eb4615;stop-opacity:1;" />
       <stop
          stop-color="#6c6c6c"
          offset="1"
          id="stop154"
-         style="stop-color:#e4a781;stop-opacity:1;" />
+         style="stop-color:#f2bd83;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient1042"
@@ -385,7 +385,7 @@
   </g>
   <g
      id="g160327"
-     transform="matrix(1.6072536,0.38262077,-0.38262077,1.6072536,-88.458643,-136.03645)">
+     transform="matrix(1.6988706,0.40443099,-0.40443099,1.6988706,-95.273266,-145.70578)">
     <rect
        style="fill:url(#radialGradient1061);fill-opacity:1;stroke:none;stroke-width:0.211949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1049"
@@ -418,7 +418,7 @@
        d="m 101.26462,66.215195 c 0.91453,0.763291 1.94045,1.235925 3.00614,1.604816 l -5.472156,10.250453 -3.006143,-1.604815 z"
        style="fill:url(#linearGradient1030);fill-opacity:1;stroke:none;stroke-width:0.221209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       style="fill:#06007b;fill-opacity:0.38532105;stroke:none;stroke-width:0.221209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#06007b;fill-opacity:0.385321;stroke:none;stroke-width:0.221209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 100.41679,67.803358 c 0.77837,0.717006 1.98578,1.380056 3.00614,1.604816 l -5.472159,10.250453 -3.006143,-1.604816 z"
        id="path1045"
        inkscape:connector-curvature="0"
