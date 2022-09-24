@@ -22,7 +22,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="8.5625"
-     inkscape:cx="31.065693"
+     inkscape:cx="18.744526"
      inkscape:cy="32"
      inkscape:window-width="1366"
      inkscape:window-height="703"
@@ -86,12 +86,12 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter10204"
-       x="-0.070615356"
-       y="-0.079965191"
-       width="1.1412307"
-       height="1.1599304">
+       x="-0.10168612"
+       y="-0.11514988"
+       width="1.2033722"
+       height="1.2302998">
       <feGaussianBlur
-         stdDeviation="1.3319851"
+         stdDeviation="1.9180586"
          id="feGaussianBlur10206" />
     </filter>
     <linearGradient

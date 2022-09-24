@@ -22,7 +22,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="8.5625"
-     inkscape:cx="17.40146"
+     inkscape:cx="4.9635036"
      inkscape:cy="32"
      inkscape:window-width="1366"
      inkscape:window-height="703"
@@ -76,11 +76,13 @@
       <stop
          stop-color="#ff7100"
          offset="0"
-         id="stop256" />
+         id="stop256"
+         style="stop-color:#db3300;stop-opacity:1;" />
       <stop
          stop-color="#ff9231"
-         offset="1"
-         id="stop258" />
+         offset="0.99643129"
+         id="stop258"
+         style="stop-color:#ffbb43;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="a-3"
@@ -124,19 +126,6 @@
          offset="1"
          id="stop258-9" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1701"
-       x="-0.14992005"
-       y="-0.12303324"
-       width="1.3020587"
-       height="1.2258143">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.407905"
-         id="feGaussianBlur1703" />
-    </filter>
     <filter
        id="mask-powermask-path-effect1729_inverse"
        inkscape:label="filtermask-powermask-path-effect1729"
