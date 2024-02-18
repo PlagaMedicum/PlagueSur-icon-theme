@@ -40,14 +40,14 @@ So I'm open for your contributions, let's make Linux to look consistent and mode
 I am not the fan of big corporations, so i'll prefer to avoid some corporational branding where it is not needed.
 
 I've been also inspired by the Apple's
-[Humman interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
+[Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
 [These tips](https://lawsofux.com/) also helped me.
 
 ## Differentiation from Other Icon Packs
 
-0. More icons. Some icons were fixed or redrawed completely to fit general style.
-1. No unnecessary Apple branding. It was replaced with Tux logo.
-2. More compatibility with dark colour scheme.
+- More icons. Some icons were fixed or redrawn completely to fit general style.
+- No unnecessary Apple branding. It was replaced with Tux logo.
+- More compatibility with dark colour scheme.
 
 ## Installation
 
