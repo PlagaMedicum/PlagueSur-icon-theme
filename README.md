@@ -21,8 +21,8 @@ Transform your Linux desktop into a sleek and modern interface reminiscent of iO
 
 ## What is my goal
 
-Disclaimer: **my work is based on the other nice people's work**. Sorry if my comparisons with other icon-packs looks disrespectful, I really apreciate the contribution of every creator out there!
-Let's make our desktops prettier :)
+Disclaimer: **my work is based on the other nice people's work**. Sorry if my comparisons with other icon-packs looks disrespectful, I really apreciate the contribution of every creator out there.
+Let's make our desktops prettier!
 
 I want to bring iOS or Android like experience in desktop icons at any Linux DE.
 
