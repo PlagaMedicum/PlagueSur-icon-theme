@@ -6,7 +6,7 @@
    version="1.1"
    id="svg28"
    sodipodi:docname="application-vnd.google-earth.kml.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,11 +23,11 @@
      showgrid="false"
      inkscape:zoom="8.0625"
      inkscape:cx="18.294574"
-     inkscape:cy="33.24031"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:cy="33.116279"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg28"
      inkscape:showpageshadow="0"
@@ -115,17 +115,11 @@
      aria-label="VALA"
      id="g24"
      transform="translate(1.7758535)">
-    <text
-       xml:space="preserve"
-       style="font-size:2.11663px;line-height:1.25;font-family:sans-serif;stroke-width:0.0142872"
-       x="4.4449029"
-       y="15.086384"
-       id="text13930"><tspan
-         sodipodi:role="line"
-         id="tspan13928"
-         style="font-size:2.11663px;stroke-width:0.0142872"
-         x="4.4449029"
-         y="15.086384">KML</tspan></text>
+    <path
+       d="M 5.7550969,15.086384 H 5.5307341 l -0.5355074,-0.721771 -0.154514,0.135464 v 0.586307 H 4.650216 V 13.57511 h 0.1904967 v 0.745054 q 0.063499,-0.07197 0.1291145,-0.143931 0.065615,-0.07197 0.131231,-0.143931 L 5.5095678,13.57511 H 5.731814 l -0.5990063,0.658272 z m 0.8720505,0 -0.497408,-1.325011 h -0.00847 q 0.00635,0.06562 0.010583,0.177797 0.00423,0.110065 0.00423,0.230713 v 0.916501 H 5.960409 V 13.57511 h 0.2815118 l 0.4656586,1.238229 h 0.00847 L 7.190171,13.57511 h 0.2793952 v 1.511274 H 7.2811861 v -0.929201 q 0,-0.110065 0.00423,-0.218013 0.00635,-0.107948 0.010583,-0.17568 h -0.00847 l -0.5037579,1.322894 z m 1.2530443,0 V 13.57511 h 0.1904967 v 1.341943 H 8.731077 v 0.169331 z"
+       id="text13930"
+       style="font-size:2.11663px;line-height:1.25;stroke-width:0.0142872"
+       aria-label="KML" />
   </g>
   <g
      id="g6408"

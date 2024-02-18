@@ -6,7 +6,7 @@
    version="1.1"
    id="svg59497"
    sodipodi:docname="folder-music-open.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,15 +22,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="8.15625"
-     inkscape:cx="31.754789"
-     inkscape:cy="28.444444"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:zoom="7.8149311"
+     inkscape:cx="14.26756"
+     inkscape:cy="14.971341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2921" />
+     inkscape:current-layer="g23097" />
   <defs
      id="defs59479">
     <linearGradient
@@ -624,7 +624,7 @@
                d="m 146.02917,-187.75 16.95744,0 a 0.52916667,0.52916667 45 0 1 0.52917,0.52917 v 22.44166 a 0.52916667,0.52916667 135 0 1 -0.52917,0.52917 H 146.02917 A 0.52916667,0.52916667 45 0 1 145.5,-164.77917 v -22.44166 a 0.52916667,0.52916667 135 0 1 0.52917,-0.52917 z"
                inkscape:path-effect="#path-effect3000-3-6" />
             <path
-               style="fill:#3ec300;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+               style="fill:#c7c7c7;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
                id="rect2392-1-1-0"
                width="16.865835"
                height="22"
@@ -635,7 +635,7 @@
                sodipodi:type="rect"
                transform="rotate(90)" />
             <path
-               style="fill:#ededed;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+               style="fill:#d4d4d4;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
                id="rect2392-1-1"
                width="17.249149"
                height="22.5"
@@ -646,7 +646,7 @@
                sodipodi:type="rect"
                transform="rotate(90)" />
             <path
-               style="fill:#ff1d15;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
+               style="fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.241565;paint-order:stroke fill markers"
                id="rect2392-1"
                width="17.632463"
                height="23"
