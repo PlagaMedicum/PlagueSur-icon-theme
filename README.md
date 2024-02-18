@@ -1,3 +1,10 @@
+### Support me!
+
+You can show your apreciation and motivate me for further work!  
+↓ There are different donation options, click the button below to learn more!
+
+<noscript><a href="https://liberapay.com/buljion"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
+
 # PlagueSur icon theme
 
 Nice dark icon theme, based on WhiteSur-Dark, Big-Sur and other icon themes,
