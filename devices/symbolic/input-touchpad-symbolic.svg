@@ -1,6 +1,5 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.102" y="2.581" width="13.856" height="11.057" style="fill-opacity:.3;fill:rgb(223,223,223)"/>
- <g transform="translate(.5 -.5)">
-  <path d="m1 2c-1 0-1 1-1 1v11s0 1 1 1h13s1 0 1-1v-11c0-1-1-1-1-1h-13zm13.096 11.559h-13.192v-7.195h13.192v7.195zm0-7.72h-6.354v-2.398h6.354v2.398zm-6.838 0h-6.354v-2.398h6.354v2.398z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
- </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g color='#000' transform='translate(-1192.99 -80.993)'>
+        <path d='M1194.49 82.004c-.822 0-1.5.678-1.5 1.5v11c0 .822.678 1.5 1.5 1.5h12c.823 0 1.5-.678 1.5-1.5v-11c0-.822-.677-1.5-1.5-1.5zm0 1h12c.286 0 .5.214.5.5V92h-13v-8.496c0-.286.215-.5.5-.5zm-.5 9.996h6.01v2.004h-5.51a.488.488 0 0 1-.5-.5zm7.01 0h5.99v1.504c0 .286-.214.5-.5.5H1201z' fill='#dedede' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+    </g>
 </svg>

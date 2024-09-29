@@ -1,44 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   version="1.1"
-   viewBox="0 0 32 32"
-   id="svg1"
-   sodipodi:docname="project-open.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="24.875"
-     inkscape:cx="16"
-     inkscape:cy="16"
-     inkscape:window-width="1920"
-     inkscape:window-height="1015"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {&#10;        color:#363636;&#10;      }</style>
-  </defs>
-  <path
-     class="ColorScheme-Text"
-     d="m7 4c-1.662 0-3 1.338-3 3v18c0 1.662 1.338 3 3 3h18c1.662 0 3-1.338 3-3v-18c0-1.662-1.338-3-3-3h-18zm0 1h18c1.108 0 2 0.892 2 2v1h-22v-1c0-1.108 0.892-2 2-2zm-2 4h22v16c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2v-16zm4.5 4a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm0 1a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5zm3.5 0v1h10v-1h-10zm-3.5 5a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm0 1a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5zm3.5 0v1h10v-1h-10z"
-     fill="currentColor"
-     id="path1"
-     style="fill:#f0f0f0;fill-opacity:1" />
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#cccccc;
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m7 4c-1.662 0-3 1.338-3 3v18c0 1.662 1.338 3 3 3h18c1.662 0 3-1.338 3-3v-18c0-1.662-1.338-3-3-3h-18zm0 1h18c1.108 0 2 0.892 2 2v1h-22v-1c0-1.108 0.892-2 2-2zm-2 4h22v16c0 1.108-0.892 2-2 2h-18c-1.108 0-2-0.892-2-2v-16zm4.5 4a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm0 1a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5zm3.5 0v1h10v-1h-10zm-3.5 5a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm0 1a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5zm3.5 0v1h10v-1h-10z" fill="currentColor"/>
 </svg>

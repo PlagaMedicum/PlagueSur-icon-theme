@@ -1,6 +1,5 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.963702 0 0 .941667 .290381 .785112)">
-  <rect x="2.531" y="6.313" width="10.938" height="7.146" style="fill-opacity:.3;fill:rgb(223,223,223)"/>
- </g>
- <path d="m2 14c0 1 1 1 1 1h2v-1h6v1h2c1 0 1-1 1-1v-12c0-1-1-1-1-1h-7l-4 4v9zm11.27-7.27h-10.54v6.729h10.54v-6.729zm-6.27-3.73h1v3h-1v-3zm-2 1h1v2h-1v-2zm4-1h1v3h-1v-3zm2 0h1v3h-1v-3z" style="fill:rgb(223,223,223)"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g color='#000' transform='translate(-1293 -61)'>
+        <path d='M1296 63.003v11c0 .834.564 1.526 1.053 1.77.488.244.947.23.947.23h7s.459.014.947-.23c.489-.244 1.053-.936 1.053-1.77v-8.445l-.324-.324-1.906-1.906-.325-.325H1304zm1 1h1v2h1v-2h1v2h1v-2h1v2h1v-2h1.031l.031.032 1.906 1.906.031.031v8.031c0 1-1 1-1 1h-7s-1 0-1-1z' fill='#dedede' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal' white-space='normal'/>
+    </g>
 </svg>

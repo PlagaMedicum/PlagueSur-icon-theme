@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#f1f8f8; } .ColorScheme-Highlight { color:#f1f8f8; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 1 1 L 4 5 L 12 5 L 12 9.03125 L 10.65625 7.59375 L 10 8.28125 L 12.3125 10.78125 L 12.5 11 L 12.6875 10.78125 L 15 8.28125 L 14.34375 7.59375 L 13 9.03125 L 13 5 L 10 1 L 1 1 z M 1 11 L 4 15 L 13 15 L 10 11 L 1 11 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M0 7h1V6H0Zm2 0h1V6H2Zm2 0h1V6H4Zm8 0h1V6h-1zm2 0h1V6h-1zM0 1h1V0H0Zm2 0h1V0H2ZM0 5h1V4H0Zm0-2h1V2H0Zm4-2h1V0H4Zm2 0h1V0H6Zm2 0h1V0H8Zm2 0h1V0h-1zm2 0h1V0h-1zm2 0h1V0h-1zm0 2h1V2h-1zm0 2h1V4h-1z" style="fill:#dedede;fill-opacity:1"/><path d="M7.5 4.999h1v7h-1z" style="fill:#dedede;stroke-width:1.87083;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000"/><path d="M9.849 2.535h5v1h-5z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="rotate(45)"/><path d="M-1.465 13.849h5v1h-5z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="scale(-1 1) rotate(45)"/><path d="M3 13.999h10v1H3zM3 3h10v1H3z" style="fill:#dedede;stroke-width:1.69031;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000"/></svg>

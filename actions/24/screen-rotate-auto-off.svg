@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
   <style type="text/css" id="current-color-scheme">
         .ColorScheme-Text {
-            color:#eff0f1;
+            color:#cccccc;
         }
         .ColorScheme-NegativeText {
             color:#da4453;

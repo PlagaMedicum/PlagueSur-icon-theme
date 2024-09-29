@@ -1,45 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg7"
-   sodipodi:docname="exchange-positions.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview9"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="20.611255"
-     inkscape:cx="5.4824415"
-     inkscape:cy="4.9002353"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     inkscape:window-x="0"
-     inkscape:window-y="37"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7" />
-  <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#f1f8f8; } .ColorScheme-Highlight { color:#f1f8f8; }
-  </style>
-  </defs>
-  <path
-     style="color:#dedede;fill:currentColor;fill-opacity:1;stroke:none"
-     d="M -2e-7,-1.5e-7 V 6.9999998 H 8.0000002 V -1.5e-7 Z m 1,1 H 7.0000002 V 5.9999998 H 0.9999998 Z m 8.0000004,0.078125 V 2.0898437 4.9999998 H 10 V 2.3554687 a 6,6 0 0 1 4,5.6445315 h 1 A 7,7 0 0 0 9.0000002,1.0781249 Z M 0.9999998,8.0000002 A 7,7 0 0 0 7.0000002,14.921875 V 13.910156 11 h -1 v 2.644531 A 6,6 0 0 1 1.9999998,8.0000002 Z m 7.0000004,1 V 16 H 16 V 9.0000002 Z m 1,0.9999998 H 15 v 5 H 9.0000002 Z"
-     class="ColorScheme-Text"
-     id="path4" />
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m2-1.25e-5c-1.108 0-2 0.892-2 2v3c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-3c0-1.108-0.892-2-2-2zm0 1h4c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-3c0-0.554 0.446-1 1-1zm7 0.078125v3.9219h1v-2.6445c2.393 0.84605 3.9948 3.1064 4 5.6445h1c-0.0031-3.4773-2.5584-6.4251-6-6.9219zm-8 6.9219c0.00314 3.4773 2.5584 6.4251 6 6.9219v-3.9219h-1v2.6445c-2.393-0.84605-3.9948-3.1064-4-5.6445zm9 1c-1.108 0-2 0.892-2 2v3c0 1.108 0.892 2 2 2h4c1.108 0 2-0.892 2-2v-3c0-1.108-0.892-2-2-2zm0 1h4c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1h-4c-0.554 0-1-0.446-1-1v-3c0-0.554 0.446-1 1-1z" fill="currentColor"/>
 </svg>

@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="0 0 16 16"
-   version="1.1"
-   id="svg5"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   version="1.1">
   <defs
      id="defs9" />
   <style
      type="text/css"
      id="current-color-scheme">
         .ColorScheme-Text {
-            color:#eff0f1;
+            color:#cccccc;
         }
     </style>
   <path

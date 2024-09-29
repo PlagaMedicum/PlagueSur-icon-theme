@@ -1,3 +1,4 @@
-<svg style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m2.456 2.418c-0.512 0-0.924 0.412-0.924 0.924v8.316c0 0.512 0.412 0.924 0.924 0.924h-0.571l-1.885 1.418v1h16v-1l-1.885-1.418h-0.571c0.512 0 0.924-0.412 0.924-0.924v-8.316c0-0.512-0.412-0.924-0.924-0.924h-11.088zm-0.305 0.509h11.698v9.03h-11.698v-9.03zm3.571 10.708h4.556v1h-4.556v-1z" style="fill-rule:nonzero;fill:rgb(223,223,223)"/>
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m2 2c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill="#dedede"/>
+ <path d="m0.5 13c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h15c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-4.5254c-0.0557 0.21543-0.24129 0.37695-0.47461 0.37695h-5c-0.23332 0-0.41891-0.16152-0.47461-0.37695h-4.5254z" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
 </svg>

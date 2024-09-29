@@ -1,3 +1,4 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <path d="m14 1c-1 0-.801 1-.801 1s-.059 2.04-.299 2.615c-.497 1.194-1.487 2.603-4.701 2.603-3.786 0-5.797 1.591-6.549 3.397-.451 1.083-.451 3.385-.451 3.385s-.199 1 .801 1 .801-1 .801-1-.062-1.747.299-2.615c.498-1.194 1.487-2.703 4.701-2.703 3.786 0 5.796-1.491 6.549-3.297.496-1.189.451-3.385.451-3.385s.199-1-.801-1z" fill="#dfdfdf" fill-rule="nonzero"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 7a7 7 0 0 0-7 7h1a6 6 0 0 1 6-6v-1z" fill="#dedede" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3333"/>
+ <path d="m8 8a7 7 0 0 0 7-7h-1a6 6 0 0 1-6 6z" fill="#dedede" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3333"/>
 </svg>

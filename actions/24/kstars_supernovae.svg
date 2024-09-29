@@ -53,7 +53,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#dedede;
+        color:#cccccc;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
