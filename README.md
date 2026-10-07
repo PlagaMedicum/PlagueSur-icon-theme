@@ -1,6 +1,6 @@
 ### Support me!
 
-👋🤠 Hey, fellow wanderer! I have done a lot of work here, so you can show your apreciation for it and motivate me for further improvements by making some donation (any amount will be apreciated)!  
+👋🤠 Hey, fellow wanderer! I have done a lot of work here, so you can show your appreciation for it and motivate me for further improvements by making a donation (any amount will be appreciated)!
 ↓ There are different donation options, so click the button below to learn more!
 
 <noscript><a href="https://liberapay.com/buljion"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>  
@@ -21,7 +21,7 @@ Transform your Linux desktop into a sleek and modern interface reminiscent of iO
 
 ## What is my goal
 
-Disclaimer: **my work is based on the other nice people's work**. Sorry if my comparisons with other icon-packs looks disrespectful, I really apreciate the contribution of every creator out there.
+Disclaimer: **my work is based on the other nice people's work**. Sorry if my comparisons with other icon-packs look disrespectful, I really appreciate the contribution of every creator out there.
 Let's make our desktops prettier!
 
 I want to bring iOS or Android like experience in desktop icons at any Linux DE.
@@ -33,11 +33,11 @@ I want to bring iOS or Android like experience in desktop icons at any Linux DE.
 - **Aesthetically-Balanced:** The icon pack is designed to deliver a harmonious and visually pleasing experience, elevating the look and feel of the user's desktop environment.
 - **Neutral and Thematically Universal:** No unnecessary embellishments and distracting visuals. The icons maintain a neutral and thematically universal design, suitable for any user preference or desktop theme.
 
-To achieve these effects my icon pack also need to cover as much icons
-variations as possible, and sometimes they can be not ideal in realisation.
-So I'm open for your contributions, let's make Linux to look consistent and modern!
+To achieve these effects, my icon pack also needs to cover as many icon
+variations as possible, and sometimes they can be not ideal in realization.
+So I'm open for your contributions, let's make Linux look consistent and modern!
 
-I am not the fan of big corporations, so i'll prefer to avoid some corporational branding where it is not needed.
+I am not a fan of big corporations, so I'll prefer to avoid some corporate branding where it is not needed.
 
 I've been also inspired by the Apple's
 [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines).
@@ -57,7 +57,7 @@ I've been also inspired by the Apple's
 git clone https://github.com/PlagaMedicum/PlagueSur-icon-theme.git ~/.local/share/icons/PlagueSur
 ```
 
-Then go the Appearance settings and choose the **PlagueSur** icon theme. Enjoy!
+Then go to the Appearance settings and choose the **PlagueSur** icon theme. Enjoy!
 
 ## TODO
 
@@ -74,4 +74,3 @@ Optional:
 ## Contribution
 
 **If you found problem or want to contribute, feel free to open an issue, write some comment or create a PR!**
-
